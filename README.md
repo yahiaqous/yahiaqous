@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%22A+jack+of+all+trades+is+a+master+of+none+;but+oftentimes+better+than+a+master+of+one%22)](https://git.io/typing-svg)
 
 <br />
-<br />
+
 
 <h2 align="center">Interests</h2>
 
@@ -28,6 +28,7 @@
 <h3 align="center">I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point</h3>
 
 <h3 align="center">I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
+<br />
 <br />
 
 <h1 align="center">Do you believe that we wanna have two main worlds in future?</h1>
