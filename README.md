@@ -106,7 +106,7 @@ This one and a virtual one! I do</h1>
 <h1 align="center"><img src = "" width = 32px> Projects <img src = "" width = 32px></h1>
 
 <a href="https://github.com/partyistic/partyistic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YAHIAQOUS&repo=https://github.com/YAHIAQOUS/c_sharp_learning&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YAHIAQOUS&repo=c_sharp_learning&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
