@@ -79,7 +79,7 @@ This one and a virtual one! I do</h1>
 </p>
 
 <br />
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px> Hosting <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px> Hosting & Deployment <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px></h2>
 <p align="center">
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Netlify%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Heroku%20Logo.png"></code>
