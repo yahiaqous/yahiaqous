@@ -24,5 +24,5 @@
 <h3 align="center">I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
 
 <div align="center">
-<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/849a2c102686225.5f7a4350d9dd5.gif" align="center" style="width: 70%; height:70%"/>
+<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="center" style="width: 70%; height:70%"/>
 </div>
