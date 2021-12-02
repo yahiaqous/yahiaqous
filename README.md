@@ -19,4 +19,4 @@
 
 <br />
 
-<h1 align="center">My Favorite Quote</h1>
+<h2 align="center">Interests</h2>
