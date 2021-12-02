@@ -9,3 +9,5 @@
 <h1 align="center">Wait! Before you Scroll Down</h1>
 <h3 align="center">Do you beleive that I came from future?</h3>
 <h3 align="center">NO? Neither am I, Scroll now</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
