@@ -6,6 +6,6 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
-<p style="font-size:20px" align="center">Wait! Before you Scroll Down</p>
+<h1 align="center">Wait! Before you Scroll Down</h1>
 <h3 align="center">Do you beleive that I came from future?</h3>
 <h3 align="center">NO? Neither am I, Scroll now</h3>
