@@ -22,7 +22,8 @@
 
 <h2 align="center">Interests</h2>
 
-<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="right" style="width: 40%; height:40%"/>
+<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/849a2c102686225.5f7a4350d9dd5.gif" align="right" style="width: 40%; height:40%"/>
+
 
 <br />
 <h3 align="center">I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point</h3>
@@ -34,3 +35,5 @@
 
 <h1 align="center">Do you believe that we wanna have two main worlds in future?
 This one and a virtual one! I do</h1>
+
+<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="right" style="width: 40%; height:40%"/>
