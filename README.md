@@ -105,7 +105,7 @@ This one and a virtual one! I do</h1>
 
 <h1 align="center"><img src = "" width = 32px> Projects <img src = "" width = 32px></h1>
 
-<p>
+<p align="center">
 <a align="center" href="https://github.com/partyistic/partyistic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=buefy" />
 </a>
