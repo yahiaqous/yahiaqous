@@ -3,7 +3,7 @@
 <h3 align="center">I'm Yahia, Architect and Developer, Tech Lover, and attended to be a Virtual Environments Developer</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 70%; height:70%"/>
+<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/code.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
 <h1 align="center">Wait! Before you Scroll Down</h1>
@@ -22,7 +22,7 @@
 
 <h2 align="center">Interests</h2>
 
-<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/849a2c102686225.5f7a4350d9dd5.gif" align="right" style="width: 40%; height:40%"/>
+<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR1.gif" align="right" style="width: 40%; height:40%"/>
 
 
 <br />
@@ -37,7 +37,7 @@
 This one and a virtual one! I do</h1>
 
 <div align="center">
-<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="center" style="width: 70%; height:70%"/>
+<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR2.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
 
@@ -45,3 +45,4 @@ This one and a virtual one! I do</h1>
 <br />
 
 <h2 align="center">Skills</h2>
+
