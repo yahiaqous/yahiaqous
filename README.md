@@ -46,4 +46,4 @@ This one and a virtual one! I do</h1>
 
 <h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h1>
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 32px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
