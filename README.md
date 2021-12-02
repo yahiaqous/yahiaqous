@@ -22,10 +22,8 @@
 <h2 align="center">Interests</h2>
 
 <div align="left" style="width: 40%>
-  <h3>I have a huge interest in the technological field and appreciate all the
-                    technologies that humans have developed up to this point</h3>
-  <h3>I am interested in artificial intelligence, machine learning, augmented reality,
-                    and mainly in virtual reality development</h3>
+<h3>I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point</h3>
+<h3>I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
 </div>
 
 
