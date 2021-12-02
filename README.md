@@ -47,9 +47,9 @@ This one and a virtual one! I do</h1>
 <h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h1>
 
 
-
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
 <p align="center">
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
+
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/CSS%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20Logo.png"></code>
