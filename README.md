@@ -40,12 +40,14 @@ This one and a virtual one! I do</h1>
 <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR2.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
+<br />
+<br />
 
-<br />
-<br />
+
+
+
 
 <h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h1>
-
 
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
@@ -56,7 +58,6 @@ This one and a virtual one! I do</h1>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Python%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/C%23%20Logo.png"></code>
 </p>
-
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2>
 <p align="center">
@@ -75,7 +76,6 @@ This one and a virtual one! I do</h1>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png"></code>
 </p>
-
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px> Hosting & Deployment <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px></h2>
 <p align="center">
@@ -97,3 +97,9 @@ This one and a virtual one! I do</h1>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Ubuntu%20Logo.png"></code>
 </p>
+
+
+
+
+
+<h1 align="center"><img src = "" width = 32px> Projects <img src = "" width = 32px></h1>
