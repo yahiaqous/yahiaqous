@@ -105,10 +105,12 @@ This one and a virtual one! I do</h1>
 
 <h1 align="center"><img src = "" width = 32px> Projects <img src = "" width = 32px></h1>
 
+<p>
 <a align="center" href="https://github.com/partyistic/partyistic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=buefy" />
 </a>
 <a align="center "href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=buefy" />
 </a>
+</p>
 
