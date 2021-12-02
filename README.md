@@ -49,7 +49,10 @@ This one and a virtual one! I do</h1>
 
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
-<code><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
 
 
 <br />
