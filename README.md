@@ -52,7 +52,7 @@ This one and a virtual one! I do</h1>
 <p align="center">
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/CSS%20Logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Python%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/C%23%20Logo.png"></code>
 </p>
@@ -93,6 +93,7 @@ This one and a virtual one! I do</h1>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/GitHub%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Docker%20Logo.png"></code>
 </p>
+
 
 <br />
 <h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px></h2>
