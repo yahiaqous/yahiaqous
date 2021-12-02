@@ -27,7 +27,7 @@
 <h3 align="center">I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point</h3>
 
 <h3 align="center">I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
-
+<br />
 
 <h1 align="center">Do you believe that we wanna have two main worlds in future?</h1>
 <h1 align="center">This one and a virtual one! I do?</h1>
