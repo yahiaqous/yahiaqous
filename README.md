@@ -6,4 +6,4 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%; height:100%"/>
 </div> 
 
-<h1 align="center">Wait!</h1>
+<h1 align="center">Wait! Before you Scroll Down</h1>
