@@ -30,6 +30,7 @@
 <h3 align="center">I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
 <br />
 <br />
+<br />
 
 <h1 align="center">Do you believe that we wanna have two main worlds in future?</h1>
 <h1 align="center">This one and a virtual one! I do?</h1>
