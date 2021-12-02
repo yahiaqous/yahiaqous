@@ -85,6 +85,12 @@ This one and a virtual one! I do</h1>
 
 <br />
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px> Version Control <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px></h2>
+<p align="center">
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+</p>
 
 <br />
 <h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px></h2>
