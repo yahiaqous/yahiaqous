@@ -110,7 +110,7 @@ This one and a virtual one! I do</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic" />
 </a>
 
-<a align="center "href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
+<a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate" />
 </a>
 </p>
