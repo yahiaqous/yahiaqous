@@ -46,4 +46,21 @@ This one and a virtual one! I do</h1>
 
 <h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h1>
 
+
+
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
+
+<br />
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2>
+
+<br />
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px> Backend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px></h2>
+
+<br />
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 24px> Database <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 24px></h2>
+
+<br />
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 24px> Version Control <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 24px></h2>
+
+<br />
+<h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px></h2>
