@@ -103,7 +103,7 @@ This one and a virtual one! I do</h1>
 
 
 
-<h1 align="center"><img src = "" width = 32px> Projects <img src = "" width = 32px></h1>
+<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Projects.gif" width = 32px> Projects <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Projects.gif" width = 32px></h1>
 
 <p align="center">
 <a align="center" href="https://github.com/partyistic/partyistic">
