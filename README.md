@@ -47,7 +47,7 @@ This one and a virtual one! I do</h1>
 <h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h1>
 
 
-<div align="right" style="width: 40%; height:40%">
+
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
 <p align="center">
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png"></code>
@@ -74,7 +74,7 @@ This one and a virtual one! I do</h1>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png"></code>
 </p>
-</div>
+
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px> Hosting & Deployment <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px></h2>
 <p align="center">
