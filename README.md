@@ -44,5 +44,5 @@ This one and a virtual one! I do</h1>
 <br />
 <br />
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 24px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 24px></h2>
 
