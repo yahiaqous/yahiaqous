@@ -39,3 +39,9 @@ This one and a virtual one! I do</h1>
 <div align="center">
 <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="center" style="width: 70%; height:70%"/>
 </div>
+
+
+<br />
+<br />
+
+<h2 align="center">Skills</h2>
