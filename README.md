@@ -6,7 +6,7 @@
 <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/code.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
-<h1 align="center">Wait! Before you Scroll Down</h1>
+<h1 align="center">Wait!<img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Stop.gif" width = 64px> Before you Scroll Down</h1>
 <h3 align="center">Do you beleive that I came from future?</h3>
 <h3 align="center">NO? Neither am I, Scroll now</h3>
 
