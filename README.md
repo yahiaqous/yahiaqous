@@ -50,53 +50,54 @@ This one and a virtual one! I do</h1>
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
 <p align="center">
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/CSS%20Logo.png"></code>
 <code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Python%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/C%23%20Logo.png"></code>
 </p>
 
 <br />
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2>
 <p align="center">
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ReactJS%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Bootstrap%20Logo.png"></code>
 </p>
 
 <br />
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px> Backend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px></h2>
 <p align="center">
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Django%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/NodeJS%20Logo.png"></code>
 </p>
 
 <br />
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 32px> Database <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 32px></h2>
 <p align="center">
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png"></code>
+</p>
+
+<br />
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px> Hosting <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px></h2>
+<p align="center">
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Netlify%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Heroku%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png"></code>
 </p>
 
 <br />
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px> Version Control <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px></h2>
 <p align="center">
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Git%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/GitHub%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Docker%20Logo.png"></code>
 </p>
 
 <br />
 <h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px></h2>
 <p align="center">
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
-<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/VScode%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"></code>
+<code align="center"><img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Ubuntu%20Logo.png"></code>
 </p>
