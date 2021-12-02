@@ -23,11 +23,9 @@
 
 <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="right" style="width: 40%; height:40%"/>
 
-<div align="left">
+
 <h3>I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point</h3>
 <h3 style="float:left; width:40%">I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
-</div>
 
 
-<!-- <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/2Vgg.gif" align="right" style="width: 40%; height:40%"/> -->
 
