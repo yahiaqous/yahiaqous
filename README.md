@@ -10,4 +10,4 @@
 <h3 align="center">Do you beleive that I came from future?</h3>
 <h3 align="center">NO? Neither am I, Scroll now</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%22A+jack+of+all+trades+is+a+master+of+none+;but+oftentimes+better+than+a+master+of+one%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%22A+jack+of+all+trades+is+a+master+of+none+;but+oftentimes+better+than+a+master+of+one%22)](https://git.io/typing-svg)
