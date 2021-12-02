@@ -107,10 +107,10 @@ This one and a virtual one! I do</h1>
 
 <p align="center">
 <a align="center" href="https://github.com/partyistic/partyistic">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=onedark" />
 </a>
 <a align="center "href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=onedark" />
 </a>
 </p>
 
