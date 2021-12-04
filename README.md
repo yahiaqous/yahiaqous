@@ -67,11 +67,12 @@ This one and a virtual one! I do</h1>
 
 
 
+
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ReactJS%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Bootstrap%20Logo.png">
-
+</p>
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px> Backend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px></h2>
 <p align="center">
@@ -84,7 +85,10 @@ This one and a virtual one! I do</h1>
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png">
 </p>
-</p>
+
+
+
+
 
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px> Hosting & Deployment <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px></h2>
 <p align="center">
