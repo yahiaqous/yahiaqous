@@ -167,18 +167,18 @@ This one and a virtual one! I do</h1>
   <img height="50" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp">
 </a>
 <a align="center" href="https://www.linkedin.com/in/yahiaqous/">
-  <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Linkedin.gif">
+  <img height="60" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Linkedin.gif">
 </a>
 <a align="center" align="center"href="https://mail.google.com/mail/u/?authuser=yahiaqous@gmail.com">
-  <img height="50" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/Gmail.webp">
+  <img height="75" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/Gmail.webp">
 </a>
 <!-- <a align="center" href="https://ltuc-asac.slack.com/team/U01QYMCQ11C">
   <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Slack.gif">
 </a>   -->
 <a align="center" href="https://discordapp.com/users/689913400167628826">
-  <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Discord.gif">
+  <img height="75" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Discord.gif">
 </a>  
 <a align="center" href="https://www.facebook.com/yahiaqous">
-  <img height="50" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/Facebook.webp">
+  <img height="75" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/Facebook.webp">
 </a>  
 </p>
