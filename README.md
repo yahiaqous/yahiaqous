@@ -65,8 +65,10 @@ This one and a virtual one! I do</h1>
 </p>
 
 
-<div>
-<div align="left" width="50%">
+
+
+<div align="center">
+<div align="right" width="50%">
 <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ReactJS%20Logo.png">
