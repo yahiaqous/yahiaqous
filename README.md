@@ -151,6 +151,8 @@ This one and a virtual one! I do</h1>
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=YAHIAQOUS&theme=react-dark" />
 </p>
 
+![snake gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid-snake.gif)
+
 
 <br />
 <br />
