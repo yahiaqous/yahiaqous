@@ -114,4 +114,11 @@ This one and a virtual one! I do</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate" />
 </a>
 </p>
+<br />
+<br />
 
+
+
+
+
+<h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px></h1>
