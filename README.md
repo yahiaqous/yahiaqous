@@ -164,10 +164,10 @@ This one and a virtual one! I do</h1>
 
 <p align="center">
 <a align="center" href="https://github.com/YAHIAQOUS">
-  <img height="50" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp">
+  <img height="75" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp">
 </a>
 <a align="center" href="https://www.linkedin.com/in/yahiaqous/">
-  <img height="60" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Linkedin.gif">
+  <img height="75" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Linkedin.gif">
 </a>
 <a align="center" align="center"href="https://mail.google.com/mail/u/?authuser=yahiaqous@gmail.com">
   <img height="75" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/Gmail.webp">
