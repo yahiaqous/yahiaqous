@@ -124,15 +124,15 @@ This one and a virtual one! I do</h1>
 <h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px></h1>
 
 <p align="center">
-  <img align="center" width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YAHIAQOUS&show_icons=true&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YAHIAQOUS&show_icons=true&include_all_commits=true"/>
 </p>
 
 <p align="center">
-  <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS" />
 </p>
 
 <p align="center">
-  <img align="center" width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS" />
 </p>
 
 
