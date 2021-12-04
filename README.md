@@ -137,14 +137,14 @@ This one and a virtual one! I do</h1>
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px></h1>
 
-<img align="right" width="330px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react" />
+<img align="right" width="330px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react-dark" />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react-dark"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react-dark" />
 </p>
 
 <p align="center">
