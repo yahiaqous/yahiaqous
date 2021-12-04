@@ -132,7 +132,7 @@ This one and a virtual one! I do</h1>
 </p>
 
 <p align="center">
-  <img align="center" width="150px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&layout=compact" />
+  <img align="center" height="500px" width="250px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&layout=compact" />
 </p>
 
 
