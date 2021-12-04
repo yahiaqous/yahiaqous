@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<h1 align="center">Do you believe that we wanna have two main worlds in future?
+<h1 align="center">Do you believe that we wanna have two main worlds in the future?
 This one and a virtual one! I do</h1>
 <div align="center">
 <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR2.gif" align="center" style="width: 70%; height:70%"/>
