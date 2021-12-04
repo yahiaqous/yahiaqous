@@ -119,11 +119,11 @@ This one and a virtual one! I do</h1>
 
 <p align="center">
 <a align="center" href="https://github.com/partyistic/partyistic">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react-dark" />
 </a>
 
 <a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react-dark" />
 </a>
 </p>
 
@@ -137,18 +137,18 @@ This one and a virtual one! I do</h1>
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px></h1>
 
-<img align="right" width="330px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react-dark" />
+<img align="right" width="330px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react" />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react-dark"/>
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react-dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=YAHIAQOUS&theme=react-dark" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=YAHIAQOUS&theme=react" />
 </p>
 
 
