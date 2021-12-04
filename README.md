@@ -172,7 +172,7 @@ This one and a virtual one! I do</h1>
 <a align="center" align="center"href="mailto:yahiaqous@gmail.com">
   <img height="50" src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/Gmail.webp">
 </a>
-<a align="center" href="https://LTUC - Advanced Computing School.slack.com/team/U01QYMCQ11C">
+<a align="center" href="https://ltuc-asac.slack.com/team/U01QYMCQ11C">
   <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Slack.gif">
 </a>  
 <a align="center" href="https://discordapp.com/users/689913400167628826">
