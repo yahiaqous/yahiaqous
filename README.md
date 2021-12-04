@@ -160,4 +160,4 @@ This one and a virtual one! I do</h1>
 
 
 
-<h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px></h1>
+<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif" width = 32px> Get in Touch! Connect with me <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif" width = 32px></h1>
