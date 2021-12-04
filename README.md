@@ -68,21 +68,21 @@ This one and a virtual one! I do</h1>
 
 
 <div align="center">
-<p align="right" width="40%">
+<p display="inline-block" align="right" width="40%">
 <!-- <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2> -->
-<p align="right" width="40%">
+<p display="inline-block" align="right" width="40%">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ReactJS%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Bootstrap%20Logo.png">
 </p>
 
 <!-- <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px> Backend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px></h2> -->
-<p align="right" width="40%">
+<p display="inline-block" align="right" width="40%">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Django%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/NodeJS%20Logo.png">
 </p>
 
 <!-- <h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 32px> Database <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 32px></h2> -->
-<p align="right" width="40%">
+<p display="inline-block" align="right" width="40%">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png">
 </p>
