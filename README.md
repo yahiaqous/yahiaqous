@@ -128,7 +128,7 @@ This one and a virtual one! I do</h1>
 </p>
 
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS" />
 </p>
 
 <p align="center">
