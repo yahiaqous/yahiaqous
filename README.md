@@ -17,7 +17,7 @@
 
 
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/quote.gif" width = 64px>My Favorite Quote<img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/quote.gif" width = 64px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/quote.gif" width = "64">My Favorite Quote<img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/quote.gif" width = "64"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%22A+jack+of+all+trades+is+a+master+of+none+;but+oftentimes+better+than+a+master+of+one%22)](https://git.io/typing-svg)
 
@@ -51,10 +51,10 @@ This one and a virtual one! I do</h1>
 
 
 
-<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = 32px></h1>
+<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = "32"> Skills <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/skills.gif" width = "32"></h1>
 
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = 24px> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = 24px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/JS.gif" width = "24"> Languages <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif" width = "24"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/CSS%20Logo.png">
@@ -63,39 +63,39 @@ This one and a virtual one! I do</h1>
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/C%23%20Logo.png">
 </p>
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = 24px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = "24"> Frontend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif" width = "24"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ReactJS%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Bootstrap%20Logo.png">
 </p>
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px> Backend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = 24px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = "24"> Backend <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif" width = "24"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Django%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/NodeJS%20Logo.png">
 </p>
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 32px> Database <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = "32"> Database <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif" width = "32"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png">
 </p>
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px> Hosting & Deployment <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = "32"> Hosting & Deployment <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Deploy.gif" width = "32"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Netlify%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Heroku%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png">
 </p>
 
-<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px> Version Control <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = "32"> Version Control <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif" width = "32"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Git%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/GitHub%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Docker%20Logo.png">
 </p>
 
-<h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = 24px></h2>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = "24"> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = "24"></h2>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/VScode%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png">
@@ -109,7 +109,7 @@ This one and a virtual one! I do</h1>
 
 
 
-<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Projects.gif" width = 32px> Projects <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Projects.gif" width = 32px></h1>
+<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Projects.gif" width = "32"> Projects <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Projects.gif" width = "32"></h1>
 
 <p align="center">
 <a align="center" href="https://github.com/partyistic/partyistic">
@@ -130,9 +130,9 @@ This one and a virtual one! I do</h1>
 
 
 
-<h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = 32px></h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "32"> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "32"></h1>
 
-<img align="right" width="330px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react" />
+<img align="right" width="330" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react" />
 <p align="center">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 </p>
@@ -155,7 +155,7 @@ This one and a virtual one! I do</h1>
 
 
 
-<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif" width = 64px> Connect with me <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif" width = 64px></h1>
+<h1 align="center"><img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif" width = "64"> Connect with me <img src = "https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif" width = "64"></h1>
 
 <p align="center">
 <a align="center" href="https://github.com/YAHIAQOUS">
