@@ -28,7 +28,7 @@
 
 
 <h2 align="center">Interests</h2>
-<img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR1.gif" align="right" width: "20" height:"20"/>
+
 <br />
 <h3 align="center">I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point</h3>
 <h3 align="center">I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development</h3>
