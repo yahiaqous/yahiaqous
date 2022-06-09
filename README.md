@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! [[ [http://url.to/image.png](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) | width = 10px ]] Have a seat, don't be shy</h1>
+<h1 align="center">Welcome! [ [http://url.to/image.png](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) | width = 10px ] Have a seat, don't be shy</h1>
 <h3 align="center">I'm Yahia, Architect and Developer, Tech Lover, and attended to be a Virtual Environments Developer</h3>
 <div align="center">
 <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/code.gif" align="center" style="width: 70%; height:70%"/>
