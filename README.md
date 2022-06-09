@@ -1,4 +1,6 @@
-<h1 align="center">Welcome! [[ https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif | width = 10px ]] Have a seat, don't be shy</h1>
+<h1 align="center">Welcome! ![test image size]<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10"> Have a seat, don't be shy</h1>
+
+![test image size]<img src="https://fullpath/assets/yourgif.gif" width="400" height="790">
 
 <h3 align="center">I'm Yahia, Architect and Developer, Tech Lover, and attended to be a Virtual Environments Developer</h3>
 <div align="center">
