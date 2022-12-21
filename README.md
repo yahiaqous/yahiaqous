@@ -96,7 +96,7 @@ This one and a virtual one! I do</h1>
 <p align="center">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Git%20Logo.png">
 <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/GitHub%20Logo.png">
-<img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Docker%20Logo.png">
+<!-- <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Docker%20Logo.png"> -->
 </p>
 
 <h2 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = "24"> Tools <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp" width = "24"></h2>
