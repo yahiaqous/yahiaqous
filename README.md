@@ -81,15 +81,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h2 align="center">Interests</h2>
 
 <!-- #2.1  -->
-<div>
-  
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=yahiaqous&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiaqous&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
-  
+<div>  
   <!-- GIF VR1 -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR1.gif"
