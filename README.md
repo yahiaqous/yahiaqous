@@ -416,7 +416,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- #5.2 GitHub Stats | Most Used Languages -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react&layout=compact&langs_count=6"/>
 </p>
 
 <!-- #5.3 GitHub Stats | Yahia Qous' GitHub Stats -->
