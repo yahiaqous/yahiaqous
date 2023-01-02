@@ -130,6 +130,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   #3
   Skills Section
  -->
+<!-- Skills Icon => https://github.com/tandpfun/skill-icons -->
 
 <!-- Skills -->
 <h1 align="center">
@@ -159,13 +160,14 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif"
     width="24"
   />
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
+    </a>
+  </p>
 </h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
-  </a>
-</p>
 
 <!-- #3.2 Frontend Frameworks -->
 <h2 align="center">
