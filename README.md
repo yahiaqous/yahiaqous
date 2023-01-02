@@ -409,6 +409,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
+<img
+  align="right"
+  width="330"
+  src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"
+/>
+
 <!-- #5.1 GitHub Stats | Most Used Languages -->
 <img
   align="right"
@@ -432,7 +438,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </p>
 
-![](https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real)
+
 
 <!-- #5.4 Contribution Grid Snake -->
 ![snake
