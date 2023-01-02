@@ -446,13 +446,13 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
   <!-- Animated Icon Connect with me handshake -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif"
-    width="64"
+    width="48"
   />
   Connect with me
   <!-- Animated Icon Connect with me handshake -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/handshake.gif"
-    width="64"
+    width="48"
   />
 </h1>
 
