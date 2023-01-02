@@ -16,19 +16,12 @@
   Have a seat, don't be shy
 </h1>
 
-<!-- I'm Yahia, Software Developer, Tech Lover, and interested in Virtual Environments Development -->
-<h3 align="center">
-  I'm Yahia, Software Developer, Tech Lover, and interested in Virtual
-  Environments Development
-</h3>
+<!-- I'm Yahia, Software Developer, Tech Lover, and Interested in Virtual Environments Development -->
+<h3 align="center">I'm Yahia, Software Developer, Tech Lover, and Interested in VirtualEnvironments Development</h3>
 
 <!-- GIF Coding -->
 <div align="center">
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/code.gif"
-    align="center"
-    style="width: 70%; height:70%"
-  />
+  <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/code.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
 <!-- #1.2 Wait! Before you Scroll Down -->
@@ -47,7 +40,6 @@
 <!-- NO? Neither am I, Scroll now -->
 <h3 align="center">NO? Neither am I, Scroll now</h3>
 
-<br />
 <br />
 
 <div>
