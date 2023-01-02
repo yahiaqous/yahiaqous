@@ -83,14 +83,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- #2.1  -->
 <div>
   
-  <div style="display: flex; flex-direction: row;">
-    <div>
-      he
-    </div>
-    <div>
-      she
-    </div>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <h2>Ciao</h2>
+   <a href=""><strong>English Version »</strong></a>
+</div>
   
   <!-- GIF VR1 -->
   <img
