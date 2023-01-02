@@ -1,4 +1,4 @@
-<!-- @format -->
+<!-- Tutorial Link => https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps -->
 
 <!-- 
   #1 
@@ -44,6 +44,7 @@
 
 <!-- Do you believe that I came from the future? -->
 <h3 align="center">Do you believe that I came from the future?</h3>
+
 <!-- NO? Neither am I, Scroll now -->
 <h3 align="center">NO? Neither am I, Scroll now</h3>
 
@@ -78,6 +79,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- Interests -->
 <h2 align="center">Interests</h2>
+
 <!-- #2.1  -->
 <div>
   <!-- GIF VR1 -->
@@ -93,6 +95,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     I have a huge interest in the technological field and appreciate all the
     technologies that humans have developed up to this point
   </h3>
+  
   <!-- I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development -->
   <h3 align="center">
     I am interested in artificial intelligence, machine learning, augmented
@@ -109,6 +112,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     Do you believe that we wanna have two main worlds in the future? This one
     and a virtual one! I do
   </h1>
+  
   <!-- GIF VR2 -->
   <div align="center">
     <img
@@ -158,27 +162,27 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon HTML -->
+  <!-- #3.1.1 Icon HTML -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png"
   />
-  <!-- Icon CSS -->
+  <!-- #3.1.2 Icon CSS -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/CSS%20Logo.png"
   />
-  <!-- Icon JavaScript -->
+  <!-- #3.1.3 Icon JavaScript -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20Logo.png"
   />
-  <!-- Icon Python -->
+  <!-- #3.1.4 Icon Python -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Python%20Logo.png"
   />
-  <!-- Icon C# -->
+  <!-- #3.1.5 Icon C# -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/C%23%20Logo.png"
@@ -201,12 +205,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon ReactJS -->
+  <!-- #3.2.1 Icon ReactJS -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ReactJS%20Logo.png"
   />
-  <!-- Icon Bootstrap -->
+  <!-- #3.2.2 Icon Bootstrap -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Bootstrap%20Logo.png"
@@ -229,12 +233,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon Django -->
+  <!-- #3.3.1 Icon Django -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Django%20Logo.png"
   />
-  <!-- Icon NodeJS -->
+  <!-- #3.3.2 Icon NodeJS -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/NodeJS%20Logo.png"
@@ -257,12 +261,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon PostgreSQL -->
+  <!-- #3.4.1 Icon PostgreSQL -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/PostgresSQL%20Logo.png"
   />
-  <!-- Icon MongoDB -->
+  <!-- #3.4.2 Icon MongoDB -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/MongoDB%20Logo.png"
@@ -285,17 +289,17 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon Netlify -->
+  <!-- #3.5.1 Icon Netlify -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Netlify%20Logo.png"
   />
-  <!-- Icon Heroku -->
+  <!-- #3.5.2 Icon Heroku -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Heroku%20Logo.png"
   />
-  <!-- Icon ElephantSQL -->
+  <!-- #3.5.3 Icon ElephantSQL -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png"
@@ -318,12 +322,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon Git -->
+  <!-- #3.6.1 Icon Git -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Git%20Logo.png"
   />
-  <!-- Icon GitHub -->
+  <!-- #3.6.2 Icon GitHub -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/GitHub%20Logo.png"
@@ -347,17 +351,17 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  <!-- Icon VS Code -->
+  <!-- #3.7.1 Icon VS Code -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/VScode%20Logo.png"
   />
-  <!-- Icon Postman -->
+  <!-- #3.7.2 Icon Postman -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"
   />
-  <!-- Icon Ubuntu -->
+  <!-- #3.7.2 Icon Ubuntu -->
   <img
     height="50"
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Ubuntu%20Logo.png"
@@ -527,5 +531,3 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
     />
   </a>
 </p>
-
-<!-- https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps -->
