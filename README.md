@@ -87,7 +87,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <div style="flex: 1;">
       he
     </div>
-
     <div style="flex: 1;">
       she
     </div>
