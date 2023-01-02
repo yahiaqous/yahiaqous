@@ -91,10 +91,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <br />
 
   <!-- I have a huge interest in the technological field and appreciate all the technologies that humans have developed up to this point -->
-  <h3 align="center">
+  <p align="center" style="font-size:1vw;">
     I have a huge interest in the technological field and appreciate all the
     technologies that humans have developed up to this point
-  </h3>
+  </p>
   
   <!-- I am interested in artificial intelligence, machine learning, augmented reality, and mainly in virtual reality development -->
   <h3 align="center">
