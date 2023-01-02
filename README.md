@@ -409,43 +409,40 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
-<div display="flex">
-
-</div>
-
-<div flex=1>
-  <img
-    align="right"
-    width="330"
-    src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"
-  />
-
-  <!-- #5.1 GitHub Stats | Most Used Languages -->
-  <img
-    align="right"
-    width="330"
-    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"
-  />
-</div>
-
-<!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
-<div flex=1>
-  <p align="center">
+<div style="display:flex">
+  <div style="flex:1">
     <img
-      align="center"
-      src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"
+      align="right"
+      width="330"
+      src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"
     />
-  </p>
 
-  <!-- #5.3 GitHub Stats | Total Contributions -->
-  <p align="center">
+    <!-- #5.1 GitHub Stats | Most Used Languages -->
     <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"
+      align="right"
+      width="330"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"
     />
-  </p>
-</div>
+  </div>
 
+  <!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
+  <div style="flex:1">
+    <p align="center">
+      <img
+        align="center"
+        src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"
+      />
+    </p>
+
+    <!-- #5.3 GitHub Stats | Total Contributions -->
+    <p align="center">
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"
+      />
+    </p>
+  </div>
+</div>
 
 
 <!-- #5.4 Contribution Grid Snake -->
