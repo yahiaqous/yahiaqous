@@ -44,9 +44,27 @@
 
 <!-- Do you believe that I came from the future? -->
 <h3 align="center">Do you believe that I came from the future?</h3>
-
 <!-- NO? Neither am I, Scroll now -->
 <h3 align="center">NO? Neither am I, Scroll now</h3>
+
+<br />
+<br />
+
+<div>
+  <!-- Do you believe that we wanna have two main worlds in the future? -->
+  <h3 align="center">Do you believe that we wanna have two main worlds in the future?</h3>
+  <!-- This one and a virtual one! I do -->
+  <h3 align="center">This one and a virtual one! I do</h3>
+  
+  <!-- GIF VR2 -->
+  <div align="center">
+    <img
+      src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR2.gif"
+      align="center"
+      style="width: 40%; height:40%"
+    />
+  </div>
+</div>
 
 <br />
 <br />
@@ -105,26 +123,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /> -->
 
-<!-- #2.2  -->
-<div>
-  <!-- Do you believe that we wanna have two main worlds in the future? This one and a virtual one! I do -->
-  <h3 align="center">
-    Do you believe that we wanna have two main worlds in the future? This one
-    and a virtual one! I do
-  </h1>
-  
-  <!-- GIF VR2 -->
-  <div align="center">
-    <img
-      src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR2.gif"
-      align="center"
-      style="width: 40%; height:40%"
-    />
-  </div>
-</div>
-
-<br />
-<br />
 
 <!-- 
   #3
