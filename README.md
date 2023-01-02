@@ -409,12 +409,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
-<!-- #5.1 GitHub Stats | Most Used Languages -->
-<img
-  align="right"
-  width="330"
-  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"
-/>
+<img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
 
 <!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
 <p align="center">
@@ -424,7 +419,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </p>
 
-<img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
+<!-- #5.1 GitHub Stats | Most Used Languages -->
+<img
+  align="right"
+  width="330"
+  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"
+/>
 
 <!-- #5.3 GitHub Stats | Total Contributions -->
 <p align="center">
@@ -433,8 +433,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"
   />
 </p>
-
-<!-- <img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/>  -->
 
 <!-- #5.4 Contribution Grid Snake -->
 ![snake
