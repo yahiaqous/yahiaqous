@@ -82,6 +82,17 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- #2.1  -->
 <div>
+  
+  <div style="display: flex;">
+    <div style="flex: 1;">
+      he
+    </div>
+
+    <div style="flex: 1;">
+      she
+    </div>
+  </div>
+  
   <!-- GIF VR1 -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR1.gif"
