@@ -160,11 +160,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/Python.gif"
     width="24"
   />
-
   <br />
   <br />
-  <br />
-  
+  <!-- Icon Languages -->
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
