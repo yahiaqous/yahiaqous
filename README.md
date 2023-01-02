@@ -421,14 +421,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <img align="right" width="33%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
 
   <!-- #5.3 GitHub Stats | Yahia Qous' GitHub Stats -->
-  <p align="center" width="66%">
-    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
-  </p>
+
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 
   <!-- #5.4 GitHub Stats | Total Contributions -->
-  <p align="center" width="66%">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
-  </p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
 </p>
 
 
