@@ -420,36 +420,16 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </p>
 
 <!-- #5.3 GitHub Stats | Yahia Qous' GitHub Stats -->
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
-</p> -->
-
-<!-- #5.4 GitHub Stats | Total Contributions -->
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
-</p> -->
-
-
 <p align="center">
-  <!-- #4.1 Project Partyistic -->
-  <a align="center" href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react">
-    <img
-      align="center"
-      src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"
-    />
-  </a>
-
-  <!-- #4.2 Project Entertainment Syndicate -->
-  <a align="center" href="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react">
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"
-    />
-  </a>
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 </p>
 
+<!-- #5.4 GitHub Stats | Total Contributions -->
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
+</p>
 
-<!-- #5.4 Contribution Grid Snake -->
+<!-- #5.5 Contribution Grid Snake -->
 ![snake
 gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid-snake.svg)
 
