@@ -83,7 +83,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- #2.1  -->
 <div>
   
-  <div display="grid">
+  <div style="display: flex; flex-direction: row;">
     <div>
       he
     </div>
