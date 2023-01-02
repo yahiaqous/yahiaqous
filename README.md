@@ -212,7 +212,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Backend Frameworks -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,nodejs" />
+      <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
     </a>
   </p>
 </h2>
@@ -235,7 +235,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Database -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
     </a>
   </p>
 </h2>
@@ -258,7 +258,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Hosting & Deployment -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=netlify,heroku" />
+      <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
     </a>
   </p>
 </h2>
@@ -322,7 +322,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Tools -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=vscode,linux,ps,figma" />
     </a>
   </p>
 </h2>
