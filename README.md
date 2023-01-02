@@ -79,7 +79,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- Interests -->
 <h2 align="center">Interests</h2>
 <!-- #2.1  -->
-<>
+<div>
   <!-- GIF VR1 -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/VR1.gif"
@@ -98,12 +98,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     I am interested in artificial intelligence, machine learning, augmented
     reality, and mainly in virtual reality development
   </h3>
-</>
+</div>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 <!-- #2.2  -->
-<>
+<div>
   <!-- Do you believe that we wanna have two main worlds in the future? This one and a virtual one! I do -->
   <h1 align="center">
     Do you believe that we wanna have two main worlds in the future? This one
@@ -117,7 +117,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
       style="width: 40%; height:40%"
     />
   </div>
-</>
+</div>
 
 <br />
 <br />
