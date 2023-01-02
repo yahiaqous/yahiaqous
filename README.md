@@ -409,7 +409,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
-<div>
+<div align="right" width="330">
   <img
     align="right"
     width="330"
