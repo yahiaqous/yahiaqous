@@ -162,38 +162,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
-    </a>
-  </p>
-  
-  <!-- #3.1.1 Icon HTML -->
-  <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/HTML%20Logo.png"
-  />
-  <!-- #3.1.2 Icon CSS -->
-  <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/CSS%20Logo.png"
-  />
-  <!-- #3.1.3 Icon JavaScript -->
-  <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/JavaScript%20Logo.png"
-  />
-  <!-- #3.1.4 Icon Python -->
-  <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Python%20Logo.png"
-  />
-  <!-- #3.1.5 Icon C# -->
-  <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/C%23%20Logo.png"
-  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
+  </a>
 </p>
 
 <!-- #3.2 Frontend Frameworks -->
