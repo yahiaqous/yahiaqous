@@ -162,6 +162,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 
 <p align="center">
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
+    </a>
+  </p>
+  
   <!-- #3.1.1 Icon HTML -->
   <img
     height="50"
