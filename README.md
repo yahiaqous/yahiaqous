@@ -409,21 +409,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
-<!-- GitHub Stats -->
-<h1 align="center">
-  <!-- Animated Icon GitHub Stats -->
-  <img
-    src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp"
-    width="32"
-  />
-  GitHub Stats
-  <!-- Animated Icon GitHub Stats -->
-  <img
-    src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp"
-    width="32"
-  />
-</h1>
-
 <!-- #5.1 GitHub Stats | Most Used Languages -->
 <img
   align="right"
