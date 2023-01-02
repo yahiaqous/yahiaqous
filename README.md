@@ -428,7 +428,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- <img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/>  -->
 
 <!-- flex-wrap: wrap; -->
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 45%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react">    
