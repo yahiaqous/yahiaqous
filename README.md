@@ -409,7 +409,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
-<div align="right" width="330">
+<p align="right" width="330">
   <img
     align="right"
     width="330"
@@ -426,7 +426,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     width="330"
     src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"
   />
-</div>
+</p>
 
 <!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
 <p align="center">
