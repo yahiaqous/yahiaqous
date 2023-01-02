@@ -421,7 +421,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </p>
 
 <!-- #5.3 GitHub Stats | Total Contributions -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
+</p>
 
 <img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
 
