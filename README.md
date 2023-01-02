@@ -410,12 +410,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h1>
 
 <div align="right" width="330">
-  <img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
+  <p>
+    <img align="right" width="330" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
+  </p>
 
   <!-- #5.1 GitHub Stats | Most Used Languages -->
-  <p>
-    <img align="right" width="330" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
-  </p>
+  <img align="right" width="330" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
 </div>
 
 
