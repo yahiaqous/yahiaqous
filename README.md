@@ -409,9 +409,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </h1>
 
-<div style="border: 1px solid black;margin:1rem;padding:2rem 2rem;text-align:center;">
-  <div style="display: inline-block;border:1px solid red;padding:1rem 1rem;vertical-align: middle;">child 1</div>
-  <div style="display: inline-block;border:1px solid red;padding:1rem 1rem;vertical-align: middle;">child 1</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px; border: 1px solid black; width: 50%; ">
+    <div style="margin: 10px; border: 1px solid red; ">Grid Column 1</div>
+    <div style="margin: 10px; border: 1px solid red; ">Grid Column 1</div>
 </div>
 
 <div style="display:flex">
