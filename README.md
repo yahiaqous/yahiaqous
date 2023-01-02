@@ -432,7 +432,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   />
 </p>
 
-![](https://komarev.com/ghpvc/?username=yahiaqous&color=00FFFF&style=for-the-badge&label=My Profile Views | Not Real)
+![](https://komarev.com/ghpvc/?username=yahiaqous&color=00FFFF&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real)
 
 <!-- #5.4 Contribution Grid Snake -->
 ![snake
