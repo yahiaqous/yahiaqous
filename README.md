@@ -418,7 +418,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <p>
   <!-- #5.2 GitHub Stats | Most Used Languages -->
-  <p align="right" width="33%">
+  <p align="right">
     <img align="right" width="33%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
   </p>
 
