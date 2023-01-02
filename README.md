@@ -410,12 +410,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h1>
 
 <p align="center" width="100%">
-  <img align="center" width="300" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
+  <img align="center" width="250" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
 </p>
 
 <!-- #5.1 GitHub Stats | Most Used Languages -->
 <p>
-  <img align="right" width="330" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
+  <img align="right" width="33%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react"/>
 
   <!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
   <p align="center" width="66%">
