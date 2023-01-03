@@ -405,18 +405,21 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </p>
 
 <!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img align="center" width="500" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=YAHIAQOUS&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=yahiaqous&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 </p>
 
 <!-- #5.3 GitHub Stats | Total Contributions -->
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
-  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHIAQOUS&theme=react"/>
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiaqous&theme=react"/>
 </p>
 
 <!-- #5.4 GitHub Stats | Most Used Languages -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img align="center" width="500" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YAHIAQOUS&theme=react&layout=compact&langs_count=6"/>
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiaqous&layout=compact&theme=react&langs_count=6"/>
 </p>
 
 <!-- #5.5 Contribution Grid Snake -->
