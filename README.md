@@ -201,7 +201,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     </a>
     <!-- Icon DRF -->
     <a href="https://www.django-rest-framework.org">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/>
     </a>
     <!-- Icon Flask -->
     <a href="https://flask.palletsprojects.com">
@@ -217,7 +217,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     </a>
     <!-- Icon SQLAlchemy -->
     <a href="https://www.sqlalchemy.org">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/>
     </a>
     <br />
     <!-- Icon MongoDB -->
@@ -234,11 +234,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     </a>
     <!-- Icon React Hooks -->
     <a href="https://reactjs.org/docs/hooks-intro.html">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
     </a>
     <!-- Icon React Bootstrap -->
     <a href="https://reactjs.org/docs/hooks-intro.html">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactBootstrap.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactBootstrap.png"/>
     </a>
     <!-- Icon Bootstrap -->
     <a href="https://getbootstrap.com">
@@ -247,27 +247,27 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <br />
     <!-- Icon MaterialUI -->
     <a href="https://mui.com">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/>
     </a>
     <!-- Icon ChartJS -->
     <a href="https://www.chartjs.org">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/>
     </a>
     <!-- Icon Axios -->
     <a href="https://www.axios.com">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/>
     </a>
     <!-- Icon SocketIO -->
     <a href="https://socket.io">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/>
     </a>
     <!-- Icon SendGrid -->
     <a href="https://sendgrid.com">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/>
     </a>
     <!-- Icon Twillio -->
     <a href="https://www.twilio.com">
-      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/>
+      <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/>
     </a>
   </p>
 </h2>
@@ -292,7 +292,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icons Netlify, Heroku, Firebase -->
     <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
     <!-- Icon ElephantSQL -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ElephantSQL.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ElephantSQL.png"/>
   </p>
 </h2>
 
@@ -316,24 +316,24 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icons Git, GitHub, VSCode -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <!-- Icon Ubuntu -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/>
     <!-- Icon Postman -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/>
     <!-- Icons Photoshop -->
     <img src="https://skillicons.dev/icons?i=ps" />
     <br />
     <!-- Icons Figma -->
     <img src="https://skillicons.dev/icons?i=figma" />
     <!-- Icon MockFlow -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MockFlow.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MockFlow.png"/>
     <!-- Icon Trello -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Trello.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Trello.png"/>
     <!-- Icon Asana -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Asana.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Asana.png"/>
     <!-- Icon Autocad -->
     <img src="https://skillicons.dev/icons?i=autocad" />
     <!-- Icon Revit -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/>
+    <img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/>
     </p>
 </h2>
 
@@ -473,7 +473,7 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
   <!-- #6.4 Animated Icon Slack -->
   <!-- <a align="center" href="https://ltuc-asac.slack.com/team/U01QYMCQ11C">
     <img
-      height="50"
+      height="48"
       src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Slack.gif"
     />
   </a> -->
