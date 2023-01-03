@@ -17,7 +17,7 @@
 </h1>
 
 <!-- I'm Yahia, Software Developer, Tech Lover, and Interested in Virtual Environments Development -->
-<h3 align="center">I'm Yahia, Software Developer, Tech Lover, and Interested in Virtual Environments Development!</h3>
+<h3 align="center">I'm Yahia, Software Engineer, Tech Lover, and Interested in Virtual Environments Development!</h3>
 
 <!-- GIF Coding -->
 <div align="center">
