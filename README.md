@@ -247,7 +247,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Tools -->
   <p align="center">
     <!-- Icons Git, GitHub, VSCode -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,figma,autocad" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <!-- Icon Ubuntu -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Ubuntu.png"/>
     <!-- Icon Postman -->
