@@ -182,12 +182,14 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/DRF.png"/>
     <!-- Icons Flask, MySQL, SQLite -->
     <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
+    <br />
     <!-- Icon SQLAlchemy -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SQLAlchemy.png"/>
     <!-- Icons MongoDB, NodeJS, ReactJS, Bootstrap -->
     <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,bootstrap" />
     <!-- Icon React Hooks -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ReactHooks.png"/>
+    <br />
     <!-- Icon MaterialUI -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/MaterialUI.png"/>
     <!-- Icon ChartJS -->
