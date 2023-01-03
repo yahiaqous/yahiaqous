@@ -252,9 +252,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/>
     <!-- Icon Postman -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/>
-    <!-- Icons Photoshop, Figma -->
-    <img src="https://skillicons.dev/icons?i=ps,figma" />
+    <!-- Icons Photoshop -->
+    <img src="https://skillicons.dev/icons?i=ps" />
     <br />
+    <!-- Icons Figma -->
+    <img src="https://skillicons.dev/icons?i=figma" />
     <!-- Icon MockFlow -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MockFlow.png"/>
     <!-- Icon Trello -->
