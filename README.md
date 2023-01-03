@@ -185,10 +185,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <br />
     <!-- Icon SQLAlchemy -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/>
-    <!-- Icons MongoDB, NodeJS, ReactJS, Bootstrap -->
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,bootstrap" />
+    <!-- Icons MongoDB, NodeJS, ReactJS -->
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react" />
     <!-- Icon React Hooks -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
+    <!-- Icon Bootstrap -->
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
     <br />
     <!-- Icon MaterialUI -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/>
