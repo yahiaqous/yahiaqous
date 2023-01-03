@@ -191,17 +191,17 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
     <br />
     <!-- Icon MaterialUI -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/>
     <!-- Icon ChartJS -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/>
     <!-- Icon Axios -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/>
     <!-- Icon SocketIO -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/>
     <!-- Icon SendGrid -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/>
     <!-- Icon Twillio -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/>
   </p>
 </h2>
 
