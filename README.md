@@ -222,9 +222,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <br />
   <!-- Icons Hosting & Deployment -->
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
-    </a>
+    <!-- Icons Netlify, Heroku, Firebase -->
+    <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
     <!-- Icon ElephantSQL -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ElephantSQL.png"/>
   </p>
@@ -247,14 +246,25 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <br />
   <!-- Icons Tools -->
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ps,figma,autocad" />
-    </a>
-    <!-- Icon Postman -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Postman.png"/>
+    <!-- Icons Git, GitHub, VSCode -->
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,figma,autocad" />
     <!-- Icon Ubuntu -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Ubuntu.png"/>
-  </p>
+    <!-- Icon Postman -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Postman.png"/>
+    <!-- Icons Photoshop, Figma -->
+    <img src="https://skillicons.dev/icons?i=ps,figma" />
+    <!-- Icon MockFlow -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/MockFlow.png"/>
+    <!-- Icon Trello -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Trello.png"/>
+    <!-- Icon Asana -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Asana.png"/>
+    <!-- Icon Autocad -->
+    <img src="https://skillicons.dev/icons?i=autocad" />
+    <!-- Icon Revit -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Revit.png"/>
+    </p>
 </h2>
 
 <br />
