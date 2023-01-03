@@ -126,12 +126,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://www.django-rest-framework.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/></a>
     <!-- Icon Flask -->
     <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask"/></a>
+    <!-- Icon SQLAlchemy -->
+    <a href="https://www.sqlalchemy.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/></a>
     <!-- Icon PostgreSQL -->
     <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"/></a>
     <!-- Icon MySQL -->
     <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"/></a>
-    <!-- Icon SQLAlchemy -->
-    <a href="https://www.sqlalchemy.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/></a>
     <br />
     <!-- Icon MongoDB -->
     <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
