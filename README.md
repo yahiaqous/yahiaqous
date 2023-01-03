@@ -250,9 +250,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
     </a>
+    <!-- Icon ElephantSQL -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png"/>
   </p>
-  <!-- Icon ElephantSQL -->
-  <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png"/>
 </h2>
 
 <!-- #3.6 Version Control -->
