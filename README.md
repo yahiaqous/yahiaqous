@@ -179,7 +179,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Frameworks & Libraries -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql,sqlite,mongodb,nodejs,react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=django" />
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite,mongodb,nodejs,react,bootstrap" />
     </a>
   </p>
 </h2>
