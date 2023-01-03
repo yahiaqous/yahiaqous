@@ -177,13 +177,21 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <br />
   <br />
   <p align="center">
-    <!-- Icon Django -->    
+    <!-- Icon Django -->
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=django" />
     </a>
+    <!-- Icon DRF -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/DRF.png"/>
+    <!-- Icons Flask, MySQL, SQLite -->
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite,mongodb,nodejs,react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
+    </a>
+    <!-- Icon SQLAlchemy -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SQLAlchemy.png"/>
+    <!-- Icons MongoDB, NodeJS, ReactJS, Bootstrap -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,bootstrap" />
     </a>
   </p>
 </h2>
