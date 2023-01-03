@@ -251,25 +251,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
       <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
     </a>
   </p>
+  <!-- Icon ElephantSQL -->
+  <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png"/>
 </h2>
-
-<!-- <p align="center"> -->
-  <!-- #3.5.1 Icon Netlify -->
-<!--   <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Netlify%20Logo.png"
-  /> -->
-  <!-- #3.5.2 Icon Heroku -->
-<!--   <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Heroku%20Logo.png"
-  /> -->
-  <!-- #3.5.3 Icon ElephantSQL -->
-<!--   <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/ElephantSQL%20Logo.png"
-  /> -->
-<!-- </p> -->
 
 <!-- #3.6 Version Control -->
 <h2 align="center">
@@ -314,27 +298,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vscode,linux,ps,figma" />
     </a>
+    <!-- Icon Postman -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"/>
+    <!-- Icon Ubuntu -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Ubuntu%20Logo.png"/>
   </p>
 </h2>
-
-<!-- <p align="center"> -->
-  <!-- #3.7.1 Icon VS Code -->
-<!--   <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/VScode%20Logo.png"
-  /> -->
-  <!-- #3.7.2 Icon Postman -->
-<!--   <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"
-  /> -->
-  <!-- #3.7.2 Icon Ubuntu -->
-<!--   <img
-    height="50"
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Ubuntu%20Logo.png"
-  /> -->
-<!-- </p> -->
 
 <br />
 <br />
