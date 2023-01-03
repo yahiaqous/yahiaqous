@@ -176,6 +176,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <p align="center">
     <!-- Icon GoDaddy -->
     <a href="https://www.godaddy.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/GoDaddy.png"/></a>
+    <!-- Icon CPanel -->
+    <a href="https://cpanel.net"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/CPanel.png"/></a>
     <!-- Icon Netlify -->
     <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify"/></a>
     <!-- Icon Heroku -->
