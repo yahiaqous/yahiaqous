@@ -154,7 +154,26 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <br />
   <!-- Icons Languages -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,cs,html,css" />
+    <!-- Icon Python -->
+    <a href="https://www.python.org">
+      <img src="https://skillicons.dev/icons?i=py" />
+    </a>
+    <!-- Icon JavaScript -->
+    <a href="https://www.javascript.com">
+      <img src="https://skillicons.dev/icons?i=js" />
+    </a>
+    <!-- Icon C# -->
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+      <img src="https://skillicons.dev/icons?i=cs" />
+    </a>
+    <!-- Icon HTML -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img src="https://skillicons.dev/icons?i=html" />
+    </a>
+    <!-- Icon CSS -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img src="https://skillicons.dev/icons?i=css" />
+    </a>
   </p>
 </h2>
 
@@ -181,31 +200,75 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
       <img src="https://skillicons.dev/icons?i=django" />
     </a>
     <!-- Icon DRF -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/>
-    <!-- Icons Flask, MySQL, SQLite -->
-    <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
-    <br />
+    <a href="https://www.django-rest-framework.org">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/>
+    </a>
+    <!-- Icon Flask -->
+    <a href="https://flask.palletsprojects.com">
+      <img src="https://skillicons.dev/icons?i=flask" />
+    </a>
+    <!-- Icon PostgreSQL -->
+    <a href="https://www.postgresql.org">
+      <img src="https://skillicons.dev/icons?i=postgres" />
+    </a>
+    <!-- Icon MySQL -->
+    <a href="https://www.mysql.com">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </a>
     <!-- Icon SQLAlchemy -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/>
-    <!-- Icons MongoDB, NodeJS, ReactJS -->
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react" />
+    <a href="https://www.sqlalchemy.org">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/>
+    </a>
+    <br />
+    <!-- Icon MongoDB -->
+    <a href="https://www.mongodb.com">
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+    </a>
+    <!-- Icon NodeJS -->
+    <a href="https://nodejs.org">
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+    </a>
+    <!-- Icon ReactJS -->
+    <a href="https://reactjs.org">
+      <img src="https://skillicons.dev/icons?i=react" />
+    </a>
     <!-- Icon React Hooks -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
+    <a href="https://reactjs.org/docs/hooks-intro.html">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
+    </a>
+    <!-- Icon React Bootstrap -->
+    <a href="https://reactjs.org/docs/hooks-intro.html">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactBootstrap.png"/>
+    </a>
     <!-- Icon Bootstrap -->
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <a href="https://getbootstrap.com">
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+    </a>
     <br />
     <!-- Icon MaterialUI -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/>
+    <a href="https://mui.com">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/>
+    </a>
     <!-- Icon ChartJS -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/>
+    <a href="https://www.chartjs.org">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/>
+    </a>
     <!-- Icon Axios -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/>
+    <a href="https://www.axios.com">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/>
+    </a>
     <!-- Icon SocketIO -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/>
+    <a href="https://socket.io">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/>
+    </a>
     <!-- Icon SendGrid -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/>
+    <a href="https://sendgrid.com">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/>
+    </a>
     <!-- Icon Twillio -->
-    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/>
+    <a href="https://www.twilio.com">
+      <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/>
+    </a>
   </p>
 </h2>
 
