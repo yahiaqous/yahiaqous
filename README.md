@@ -177,7 +177,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Frameworks & Libraries -->
   <p align="center">
     <!-- Icon Django -->
-    <img src="https://skillicons.dev/icons?i=django" />
+    <a href="https://www.djangoproject.com">
+      <img src="https://skillicons.dev/icons?i=django" />
+    </a>
     <!-- Icon DRF -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/>
     <!-- Icons Flask, MySQL, SQLite -->
@@ -298,18 +300,12 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <p align="center">
   <!-- #4.1 Project Partyistic -->
   <a align="center" href="https://github.com/partyistic/partyistic">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react"
-    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react"/>
   </a>
 
   <!-- #4.2 Project Entertainment Syndicate -->
   <a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react"
-    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react"/>
   </a>
 </p>
 
