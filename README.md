@@ -155,77 +155,31 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Languages -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,py,cs" />
+      <img src="https://skillicons.dev/icons?i=py,js,cs,html,css" />
     </a>
   </p>
 </h2>
 
 
-<!-- #3.2 Frontend Frameworks -->
+<!-- #3.2 Frameworks & Libraries -->
 <h2 align="center">
-  <!-- Animated Icon Frontend Frameworks | React -->
+  <!-- Animated Icon Frameworks & Libraries | React -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif"
     width="24"
   />
-  Frontend Frameworks
-  <!-- Animated Icon Frontend Frameworks | React -->
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/ReactJS.gif"
-    width="24"
-  />
-  <br />
-  <br />
-  <!-- Icons Frontend Frameworks -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,bootstrap" />
-    </a>
-  </p>
-</h2>
-
-<!-- #3.3 Backend Frameworks -->
-<h2 align="center">
-  <!-- Animated Icon Backend Frameworks | NodeJS -->
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif"
-    width="24"
-  />
-  Backend Frameworks
-  <!-- Animated Icon Backend Frameworks | NodeJS -->
+  Frameworks & Libraries
+  <!-- Animated Icon Frameworks & Libraries | NodeJS -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/NodeJS.gif"
     width="24"
   />
   <br />
   <br />
-  <!-- Icons Backend Frameworks -->
+  <!-- Icons Frameworks & Libraries -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
-    </a>
-  </p>
-</h2>
-
-<!-- #3.4 Database -->
-<h2 align="center">
-  <!-- Animated Icon Database | SQL -->
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif"
-    width="32"
-  />
-  Database
-  <!-- Animated Icon Database | SQL -->
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/SQL.gif"
-    width="32"
-  />
-  <br />
-  <br />
-  <!-- Icons Database -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+      <img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql,sqlite,mongodb,nodejs,react,bootstrap" />
     </a>
   </p>
 </h2>
@@ -255,34 +209,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 </h2>
 
-<!-- #3.6 Version Control -->
-<h2 align="center">
-  <!-- Animated Icon Version Control -->
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif"
-    width="32"
-  />
-  Version Control
-  <!-- Animated Icon Version Control -->
-  <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif"
-    width="32"
-  />
-  <br />
-  <br />
-  <!-- Icons Version Control -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github" />
-    </a>
-  </p>
-</h2>
-
 <!-- #3.7 Tools -->
 <h2 align="center">
   <!-- Animated Icon Tools | VS Code -->
   <img
-    src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/VScode.webp"
+    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/GIT.gif"
     width="24"
   />
   Tools
@@ -296,7 +227,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Icons Tools -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,linux,ps,figma" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ps,figma,autocad" />
     </a>
     <!-- Icon Postman -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"/>
