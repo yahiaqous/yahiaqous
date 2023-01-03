@@ -21,7 +21,7 @@
 
 <!-- GIF Coding -->
 <div align="center">
-  <img src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Coding.gif" align="center" style="width: 70%; height:70%"/>
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Coding.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
 <!-- #1.2 Wait! Before you Scroll Down -->
@@ -29,7 +29,7 @@
   Wait!
   <!-- Animated Icon Stop -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Stop.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Stop.gif"
     width="64"
   />
   Before you Scroll Down
@@ -51,7 +51,7 @@
   <!-- GIF VR2 -->
   <div align="center">
     <img
-      src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/VR2.gif"
+      src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/VR2.gif"
       align="center"
       style="width: 40%; height:40%"
     />
@@ -65,13 +65,13 @@
 <h2 align="center">
   <!-- Animated Icon Quote -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Quote.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Quote.gif"
     width="64"
   />
   My Favorite Quote
   <!-- Animated Icon Quote -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Quote.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Quote.gif"
     width="64"
   />
 </h2>
@@ -94,7 +94,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- <div>   -->
   <!-- GIF VR1 -->
 <!--   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/VR1.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/VR1.gif"
     align="right"
     width="60%"
   />
@@ -126,13 +126,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h1 align="center">
   <!-- Animated Icon Skills -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Skills.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif"
     width="32"
   />
   Skills
   <!-- Animated Icon Skills -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Skills.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif"
     width="32"
   />
 </h1>
@@ -141,13 +141,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h2 align="center">
   <!-- Animated Icon JS -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/JS.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/JS.gif"
     width="24"
   />
   Languages
   <!-- Animated Icon Python -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/Python.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Python.gif"
     width="24"
   />
   <br />
@@ -163,13 +163,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h2 align="center">
   <!-- Animated Icon React -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/ReactJS.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/ReactJS.gif"
     width="24"
   />
   Frameworks & Libraries
   <!-- Animated Icon NodeJS -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/NodeJS.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/NodeJS.gif"
     width="24"
   />
   <br />
@@ -179,29 +179,29 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icon Django -->
     <img src="https://skillicons.dev/icons?i=django" />
     <!-- Icon DRF -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/DRF.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/>
     <!-- Icons Flask, MySQL, SQLite -->
     <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
     <br />
     <!-- Icon SQLAlchemy -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SQLAlchemy.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/>
     <!-- Icons MongoDB, NodeJS, ReactJS, Bootstrap -->
     <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,bootstrap" />
     <!-- Icon React Hooks -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ReactHooks.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/>
     <br />
     <!-- Icon MaterialUI -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/MaterialUI.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI.png"/>
     <!-- Icon ChartJS -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ChartJS.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/>
     <!-- Icon Axios -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Axios.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios.png"/>
     <!-- Icon SocketIO -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SocketIO.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/>
     <!-- Icon SendGrid -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SendGrid.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/>
     <!-- Icon Twillio -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Twillio.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio.png"/>
   </p>
 </h2>
 
@@ -209,13 +209,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h2 align="center">
   <!-- Animated Icon Deploy -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Deploy.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif"
     width="32"
   />
   Hosting & Deployment
   <!-- Animated Icon Deploy -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Deploy.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif"
     width="32"
   />
   <br />
@@ -225,7 +225,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icons Netlify, Heroku, Firebase -->
     <img src="https://skillicons.dev/icons?i=netlify,heroku,firebase" />
     <!-- Icon ElephantSQL -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ElephantSQL.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ElephantSQL.png"/>
   </p>
 </h2>
 
@@ -233,13 +233,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h2 align="center">
   <!-- Animated Icon Git -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/GIT.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/GIT.gif"
     width="24"
   />
   Tools
   <!-- Animated Icon VScode -->
   <img
-    src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/VScode.webp"
+    src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp"
     width="24"
   />
   <br />
@@ -251,20 +251,20 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icon Ubuntu -->
     <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/>
     <!-- Icon Postman -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Postman.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/>
     <br />
     <!-- Icons Photoshop, Figma -->
     <img src="https://skillicons.dev/icons?i=ps,figma" />
     <!-- Icon MockFlow -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/MockFlow.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MockFlow.png"/>
     <!-- Icon Trello -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Trello.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Trello.png"/>
     <!-- Icon Asana -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Asana.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Asana.png"/>
     <!-- Icon Autocad -->
     <img src="https://skillicons.dev/icons?i=autocad" />
     <!-- Icon Revit -->
-    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Revit.png"/>
+    <img height="50" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/>
     </p>
 </h2>
 
@@ -280,13 +280,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h1 align="center">
   <!-- Animated Icon Projects -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Projects.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Projects.gif"
     width="32"
   />
   Projects
   <!-- Animated Icon Projects -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Projects.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Projects.gif"
     width="32"
   />
 </h1>
@@ -321,13 +321,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h1 align="center">
   <!-- Animated Icon GitHub -->
   <img
-    src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/GitHub.webp"
+    src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp"
     width="32"
   />
   GitHub Stats
   <!-- Animated Icon GitHub -->
   <img
-    src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/GitHub.webp"
+    src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp"
     width="32"
   />
 </h1>
@@ -357,7 +357,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- #5.5 Contribution Grid Snake -->
 ![snake
-gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid-snake.svg)
+gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid-snake.svg)
 
 <br />
 <br />
@@ -371,23 +371,23 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
 <h1 align="center">
   <!-- Animated Icon Handshake -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Handshake.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif"
     width="48"
   />
   Connect with me
   <!-- Animated Icon Handshake -->
   <img
-    src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Handshake.gif"
+    src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif"
     width="48"
   />
 </h1>
 
 <p align="center">
   <!-- #6.1 Animated Icon GitHub -->
-  <a align="center" href="https://github.com/YAHIAQOUS">
+  <a align="center" href="https://github.com/yahiaqous">
     <img
       height="60"
-      src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/GitHub.webp"
+      src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp"
     />
   </a>
 
@@ -395,7 +395,7 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
   <a align="center" href="https://www.linkedin.com/in/yahiaqous/">
     <img
       height="60"
-      src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/Linkedin.gif"
+      src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Linkedin.gif"
     />
   </a>
 
@@ -403,7 +403,7 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
   <a align="center" align="center" href="mailto:yahiaqous@gmail.com">
     <img
       height="75"
-      src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/Gmail.webp"
+      src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Gmail.webp"
     />
   </a>
 
@@ -411,7 +411,7 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
   <!-- <a align="center" href="https://ltuc-asac.slack.com/team/U01QYMCQ11C">
     <img
       height="50"
-      src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/Slack.gif"
+      src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Slack.gif"
     />
   </a> -->
 
@@ -419,7 +419,7 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
   <a align="center" href="https://discordapp.com/users/689913400167628826">
     <img
       height="75"
-      src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/Discord.gif"
+      src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Discord.gif"
     />
   </a>
 
@@ -427,7 +427,7 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
   <a align="center" href="https://www.facebook.com/yahiaqous">
     <img
       height="75"
-      src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/Facebook.webp"
+      src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Facebook.webp"
     />
   </a>
 </p>
