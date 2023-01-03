@@ -314,6 +314,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vscode,linux,ps,figma" />
     </a>
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/images/icons/Postman%20Logo.png"/>
   </p>
 </h2>
 
