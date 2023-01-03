@@ -1,5 +1,7 @@
 <!-- Tutorial Link => https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps -->
 
+<samp>
+  
 <!-- 
   #1 
   About Me Section
@@ -7,12 +9,10 @@
 
 <!-- #1.1 Welcome! Have a seat, don't be shy -->
 <h1 align="center">
-  <samp>
   Welcome!
   <!-- Animated Icon Hi -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
   Have a seat, don't be shy
-  </samp>
 </h1>
 
 <!-- I'm Yahia, Software Developer, Tech Lover, and Interested in Virtual Environments Development -->
@@ -355,3 +355,4 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
     <img height="75" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Facebook.webp"/>
   </a>
 </p>
+</samp>
