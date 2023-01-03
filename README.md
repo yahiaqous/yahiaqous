@@ -181,7 +181,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=django" />
     </a>
-    <!-- Icon DRF -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/DRF.png"/>
     
     <a href="https://skillicons.dev">
