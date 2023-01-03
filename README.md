@@ -7,10 +7,12 @@
 
 <!-- #1.1 Welcome! Have a seat, don't be shy -->
 <h1 align="center">
+  <samp>
   Welcome!
   <!-- Animated Icon Hi -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
   Have a seat, don't be shy
+  </samp>
 </h1>
 
 <!-- I'm Yahia, Software Developer, Tech Lover, and Interested in Virtual Environments Development -->
@@ -68,15 +70,15 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- 
   #2
-  Skills Section
+  Technical Skills Section
  -->
-<!-- Skills Icon => https://github.com/tandpfun/skill-icons -->
+<!-- Skills Icons => https://github.com/tandpfun/skill-icons -->
 
-<!-- Skills -->
+<!-- Technical Skills -->
 <h1 align="center">
   <!-- Animated Icon Skills -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
-  Skills
+  Technical Skills
   <!-- Animated Icon Skills -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
 </h1>
