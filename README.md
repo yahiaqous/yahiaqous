@@ -27,7 +27,7 @@
 <!-- #1.2 Wait! Before you Scroll Down -->
 <h1 align="center">
   Wait!
-  <!-- Animated Icon Wait -->
+  <!-- Animated Icon Stop -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Stop.gif"
     width="64"
@@ -139,13 +139,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- #3.1 Languages -->
 <h2 align="center">
-  <!-- Animated Icon Languages | JS -->
+  <!-- Animated Icon JS -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/JS.gif"
     width="24"
   />
   Languages
-  <!-- Animated Icon Languages | Python -->
+  <!-- Animated Icon Python -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/Python.gif"
     width="24"
@@ -154,55 +154,64 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <br />
   <!-- Icons Languages -->
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,cs,html,css" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=py,js,cs,html,css" />
   </p>
 </h2>
 
 
 <!-- #3.2 Frameworks & Libraries -->
 <h2 align="center">
-  <!-- Animated Icon Frameworks & Libraries | React -->
+  <!-- Animated Icon React -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/ReactJS.gif"
     width="24"
   />
   Frameworks & Libraries
-  <!-- Animated Icon Frameworks & Libraries | NodeJS -->
+  <!-- Animated Icon NodeJS -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/NodeJS.gif"
     width="24"
   />
   <br />
   <br />
+  <!-- Icons Frameworks & Libraries -->
   <p align="center">
     <!-- Icon Django -->
     <img src="https://skillicons.dev/icons?i=django" />
     <!-- Icon DRF -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/DRF.png"/>
     <!-- Icons Flask, MySQL, SQLite -->
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
     <!-- Icon SQLAlchemy -->
     <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SQLAlchemy.png"/>
     <!-- Icons MongoDB, NodeJS, ReactJS, Bootstrap -->
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,bootstrap" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,bootstrap" />
+    <!-- Icon React Hooks -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ReactHooks.png"/>
+    <!-- Icon MaterialUI -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/MaterialUI.png"/>
+    <!-- Icon ChartJS -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/ChartJS.png"/>
+    <!-- Icon Axios -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Axios.png"/>
+    <!-- Icon SocketIO -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SocketIO.png"/>
+    <!-- Icon SendGrid -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/SendGrid.png"/>
+    <!-- Icon Twillio -->
+    <img height="50" src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/icons/Twillio.png"/>
   </p>
 </h2>
 
 <!-- #3.5 Hosting & Deployment -->
 <h2 align="center">
-  <!-- Animated Icon Hosting & Deployment -->
+  <!-- Animated Icon Deploy -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Deploy.gif"
     width="32"
   />
   Hosting & Deployment
-  <!-- Animated Icon Hosting & Deployment -->
+  <!-- Animated Icon Deploy -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Deploy.gif"
     width="32"
@@ -221,13 +230,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- #3.7 Tools -->
 <h2 align="center">
-  <!-- Animated Icon Tools | VS Code -->
+  <!-- Animated Icon Git -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/animated_icons/GIT.gif"
     width="24"
   />
   Tools
-  <!-- Animated Icon Tools | VS Code -->
+  <!-- Animated Icon VScode -->
   <img
     src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/VScode.webp"
     width="24"
@@ -297,13 +306,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- GitHub Stats -->
 <h1 align="center">
-  <!-- Animated Icon GitHub Stats -->
+  <!-- Animated Icon GitHub -->
   <img
     src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/GitHub.webp"
     width="32"
   />
   GitHub Stats
-  <!-- Animated Icon GitHub Stats -->
+  <!-- Animated Icon GitHub -->
   <img
     src="https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/animated_icons/GitHub.webp"
     width="32"
@@ -347,13 +356,13 @@ gif](https://github.com/YAHIAQOUS/YAHIAQOUS/blob/output/github-contribution-grid
 
 <!-- Connect with me -->
 <h1 align="center">
-  <!-- Animated Icon Connect with me handshake -->
+  <!-- Animated Icon Handshake -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Handshake.gif"
     width="48"
   />
   Connect with me
-  <!-- Animated Icon Connect with me handshake -->
+  <!-- Animated Icon Handshake -->
   <img
     src="https://github.com/YAHIAQOUS/YAHIAQOUS/blob/main/gifs/Handshake.gif"
     width="48"
