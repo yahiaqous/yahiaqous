@@ -133,9 +133,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://www.sqlalchemy.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/></a>
     <!-- Icon PostgreSQL -->
     <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"/></a>
+    <br />
     <!-- Icon MySQL -->
     <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"/></a>
-    <br />
     <!-- Icon MongoDB -->
     <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
     <!-- Icon NodeJS -->
@@ -144,17 +144,18 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react"/></a>
     <!-- Icon React Hooks -->
     <a href="https://reactjs.org/docs/hooks-intro.html"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/></a>
+    <br />
     <!-- Icon React Bootstrap -->
     <a href="https://react-bootstrap.github.io"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactBootstrap.png"/></a>
     <!-- Icon Bootstrap -->
     <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap"/></a>
-    <br />
     <!-- Icon MaterialUI -->
     <a href="https://mui.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/></a>
     <!-- Icon ChartJS -->
     <a href="https://www.chartjs.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/></a>
     <!-- Icon Axios -->
     <a href="https://www.axios.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/></a>
+    <br />
     <!-- Icon SocketIO -->
     <a href="https://socket.io"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/></a>
     <!-- Icon SendGrid -->
@@ -215,9 +216,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://ubuntu.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/></a>
     <!-- Icon Postman -->
     <a href="https://www.postman.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/></a>
+    <br />
     <!-- Icon Photoshop -->
     <a href="https://www.adobe.com/mena_en/products/photoshop/landpb.html"><img src="https://skillicons.dev/icons?i=ps"/></a>
-    <br />
     <!-- Icon Figma -->
     <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma"/></a>
     <!-- Icon MockFlow -->
@@ -226,6 +227,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://trello.com/en"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Trello.png"/></a>
     <!-- Icon Asana -->
     <a href="https://asana.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Asana.png"/></a>
+    <br />
     <!-- Icon Autocad -->
     <a href="https://www.autodesk.com/products/autocad"><img src="https://skillicons.dev/icons?i=autocad"/></a>
     <!-- Icon Revit -->
