@@ -317,10 +317,10 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
 <!-- Connect with me -->
 <h1 align="center">
   <!-- Animated Icon Handshake -->
-  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif" width="48"/>
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif" width="36"/>
   Connect with me
   <!-- Animated Icon Handshake -->
-  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif" width="48"/>
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif" width="36"/>
 </h1>
 
 <p align="center">
