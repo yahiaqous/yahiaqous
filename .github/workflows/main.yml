@@ -1,3 +1,5 @@
+# https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
