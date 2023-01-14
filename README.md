@@ -111,10 +111,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icon CSS -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
   </p>
-</h2>
 
-<!-- #2.2 Frameworks & Libraries -->
-<h2 align="center">
+  <!-- #2.2 Frameworks & Libraries -->
   <!-- Animated Icon React -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/ReactJS.gif" width="24"/>
   Frameworks & Libraries
@@ -166,10 +164,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icon Twillio -->
     <a href="https://www.twilio.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/></a>
   </p>
-</h2>
 
-<!-- #2.3 Hosting & Deployment -->
-<h2 align="center">
+  <!-- #2.3 Hosting & Deployment -->
   <!-- Animated Icon Deploy -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif" width="32"/>
   Hosting & Deployment
@@ -194,10 +190,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icon ElephantSQL -->
     <a href="https://www.elephantsql.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ElephantSQL.png"/></a>
   </p>
-</h2>
 
-<!-- #2.4 Tools -->
-<h2 align="center">
+  <!-- #2.4 Tools -->
   <!-- Animated Icon Git -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/GIT.gif" width="24"/>
   Tools
