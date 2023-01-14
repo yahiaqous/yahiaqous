@@ -76,6 +76,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- Skills Icons => https://github.com/tandpfun/skill-icons -->
 
 <!-- Technical Skills -->
+<details open>
 <h1 align="center">
   <!-- Animated Icon Skills -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
@@ -234,7 +235,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://www.autodesk.com/products/revit"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/></a>
   </p>
 </h2>
-
+</details>
+  
 <br />
 <br />
 
