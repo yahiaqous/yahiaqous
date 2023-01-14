@@ -255,17 +255,17 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <p align="center">
   <!-- #3.1 Project Entertainment Syndicate -->
   <a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
-    <img align="center" src="yahiaqous-github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react"/>
+    <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react"/>
   </a>
   
   <!-- #3.2 Project Real Time Translator -->
   <a align="center" href="https://github.com/real-time-translator/real-time-translator">
-    <img align="center" src="yahiaqous-github-readme-stats.vercel.app/api/pin/?username=real-time-translator&repo=real-time-translator&theme=react"/>
+    <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=real-time-translator&repo=real-time-translator&theme=react"/>
   </a>
   
   <!-- #3.3 Project Partyistic -->
   <a align="center" href="https://github.com/partyistic/partyistic">
-    <img align="center" src="yahiaqous-github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react"/>
+    <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react"/>
   </a>
 </p>
 
@@ -294,7 +294,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- #4.2 GitHub Stats | Yahia Qous' GitHub Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img align="center" width="500" src="yahiaqous-github-readme-stats.vercel.app/api?username=yahiaqous&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
+  <img align="center" width="500" src="https://yahiaqous-github-readme-stats.vercel.app/api?username=yahiaqous&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 </p>
 
 <!-- #4.3 GitHub Stats | Total Contributions -->
@@ -306,7 +306,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- #4.4 GitHub Stats | Most Used Languages -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img align="center" width="500" src="yahiaqous-github-readme-stats.vercel.app/api/top-langs/?username=yahiaqous&layout=compact&theme=react&langs_count=6"/>
+  <img align="center" width="500" src="https://yahiaqous-github-readme-stats.vercel.app/api/top-langs/?username=yahiaqous&layout=compact&theme=react&langs_count=6"/>
 </p>
 
 <!-- #4.5 Contribution Grid Snake -->
