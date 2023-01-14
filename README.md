@@ -337,7 +337,7 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
 </h1>
 
 <p align="center">
-  <a align="center" href="https://app.daily.dev/Yahia"><img src="https://api.daily.dev/devcards/47863db046a542efb5a4216377647dc6.png?r=m1p" width="400" alt="Yahia Qous's Dev Card"/></a>
+  <a align="center" href="https://app.daily.dev/Yahia"><img src="https://github.com/yahiaqous/yahiaqous/blob/master/devcard.svg" width="400" alt="Yahia Qous's Dev Card"/></a>
 </p>
   
 <br />
