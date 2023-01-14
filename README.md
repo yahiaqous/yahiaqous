@@ -89,7 +89,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </summary>
   
 <!-- #2.1 Languages -->
-<p align="center">
+<h2 style="display: inline-block;" align="center">
   <!-- Animated Icon JS -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/JS.gif" width="24"/>
   Languages
@@ -231,7 +231,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <!-- Icon Revit -->
     <a href="https://www.autodesk.com/products/revit"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/></a>
   </p>
-</p>
+</h2>
 </details>
   
 <br />
