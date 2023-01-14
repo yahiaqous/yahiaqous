@@ -319,6 +319,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 ![snake
 gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid-snake.svg)
 
+<!-- Daily Div Card -->
+<a href="https://app.daily.dev/Yahia"><img src="https://api.daily.dev/devcards/47863db046a542efb5a4216377647dc6.png?r=m1p" width="400" alt="Yahia Qous's Dev Card"/></a>
+
 <br />
 <br />
 
