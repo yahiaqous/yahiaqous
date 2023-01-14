@@ -88,7 +88,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </h1>
 </summary>
 
-<p align="center">
+<p style="font-size:50px;" align="center">
   <!-- #2.1 Languages -->
   <!-- Animated Icon JS -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/JS.gif" width="24"/>
