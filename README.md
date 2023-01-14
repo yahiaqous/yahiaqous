@@ -334,18 +334,18 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
 <!-- Tutorial Link => https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile -->
 
 <details>
-<!-- Daily Div Card -->
+<!-- Daily Div Stats -->
 <summary align="center">
 <h1 align="center">
   <!-- Animated Icon Handshake -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Reading.gif" width="36"/>
-  Daily Div Card
+  Daily Div Stats
   <!-- Animated Icon Handshake -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Reading.gif" width="36"/>
 </h1>
 </summary>
 
-<!-- Card -->
+<!-- Card Image -->
 <p align="center">
   <a align="center" href="https://app.daily.dev/Yahia"><img src="https://github.com/yahiaqous/yahiaqous/blob/main/devcard.svg" width="400" alt="Yahia Qous's Dev Card"/></a>
 </p>
