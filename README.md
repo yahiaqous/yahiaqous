@@ -24,16 +24,16 @@
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Coding.gif" align="center" style="width: 70%; height:70%"/>
 </div>
 
-<!-- #1.2 Wait! Before you Scroll Down -->
+<!-- #1.2 Wait! Before Scrolling Down -->
 <h1 align="center">
   Wait!
   <!-- Animated Icon Stop -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Stop.gif" width="64"/>
-  Before you Scroll Down
+  Before Scrolling Down
 </h1>
 
-<!-- Do you believe that I came from the future? -->
-<h3 align="center">Do you believe that I came from the future?</h3>
+<!-- Can you believe that I came from the future? -->
+<h3 align="center">Can you believe that I came from the future?</h3>
 <!-- NO? Neither am I, Scroll now -->
 <h3 align="center">NO! Neither am I, Scroll now</h3>
 
