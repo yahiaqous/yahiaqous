@@ -1,7 +1,7 @@
 <!-- Tutorial Link => https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps -->
 
 
-<style>.test{border-radius:50px;}</style>
+<style></style>
 
 <!-- To Change the Default Font -->
 <samp>
