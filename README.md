@@ -21,9 +21,10 @@
 
 <!-- GIF Coding -->
 <div align="center">
+  <!-- Fillet GIF => https://onlinegiftools.com/make-gif-corners-round -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/CodingRounded.gif" align="center" style="width: 70%; height:70%"/>
-  <!--  Ellipse GIF  -->
-  <!--   <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Coding.gif&mask=ellipse" align="center" style="width: 70%; height:70%"/> -->
+  <!-- Ellipse GIF -->
+  <!-- <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Coding.gif&mask=ellipse" align="center" style="width: 70%; height:70%"/> -->
 </div>
 
 <!-- #1.2 Wait! Before Scrolling Down -->
