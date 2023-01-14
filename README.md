@@ -77,166 +77,166 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- Technical Skills -->
 <details open>
-  <summary>
-    <h1 align="center">
-      <!-- Animated Icon Skills -->
-      <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
-      Technical Skills
-      <!-- Animated Icon Skills -->
-      <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
-    </h1>
-  </summary>
+<summary>
+  <h1 align="center">
+    <!-- Animated Icon Skills -->
+    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
+    Technical Skills
+    <!-- Animated Icon Skills -->
+    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
+  </h1>
+</summary>
 
-  <!-- #2.1 Languages -->
-  <h2 align="center">
-    <!-- Animated Icon JS -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/JS.gif" width="24"/>
-    Languages
-    <!-- Animated Icon Python -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Python.gif" width="24"/>
+<!-- #2.1 Languages -->
+<h2 align="center">
+  <!-- Animated Icon JS -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/JS.gif" width="24"/>
+  Languages
+  <!-- Animated Icon Python -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/Python.gif" width="24"/>
 
+  <br />
+  <br />
+
+  <!-- Icons Languages -->
+  <p align="center">
+    <!-- Icon Python -->
+    <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py"/></a>
+    <!-- Icon JavaScript -->
+    <a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=js"/></a>
+    <!-- Icon C# -->
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs"/></a>
+    <!-- Icon HTML -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"/></a>
+    <!-- Icon CSS -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
+  </p>
+</h2>
+
+<!-- #2.2 Frameworks & Libraries -->
+<h2 align="center">
+  <!-- Animated Icon React -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/ReactJS.gif" width="24"/>
+  Frameworks & Libraries
+  <!-- Animated Icon NodeJS -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/NodeJS.gif" width="24"/>
+
+  <br />
+  <br />
+
+  <!-- Icons Frameworks & Libraries -->
+  <p align="center">
+    <!-- Icon Django -->
+    <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django"/></a>
+    <!-- Icon DRF -->
+    <a href="https://www.django-rest-framework.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/></a>
+    <!-- Icon Flask -->
+    <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask"/></a>
+    <!-- Icon SQLAlchemy -->
+    <a href="https://www.sqlalchemy.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/></a>
+    <!-- Icon PostgreSQL -->
+    <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"/></a>
     <br />
+    <!-- Icon MySQL -->
+    <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+    <!-- Icon MongoDB -->
+    <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
+    <!-- Icon NodeJS -->
+    <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
+    <!-- Icon ReactJS -->
+    <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react"/></a>
+    <!-- Icon React Hooks -->
+    <a href="https://reactjs.org/docs/hooks-intro.html"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/></a>
     <br />
-
-    <!-- Icons Languages -->
-    <p align="center">
-      <!-- Icon Python -->
-      <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py"/></a>
-      <!-- Icon JavaScript -->
-      <a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=js"/></a>
-      <!-- Icon C# -->
-      <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs"/></a>
-      <!-- Icon HTML -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"/></a>
-      <!-- Icon CSS -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
-    </p>
-  </h2>
-
-  <!-- #2.2 Frameworks & Libraries -->
-  <h2 align="center">
-    <!-- Animated Icon React -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/ReactJS.gif" width="24"/>
-    Frameworks & Libraries
-    <!-- Animated Icon NodeJS -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/NodeJS.gif" width="24"/>
-
+    <!-- Icon React Bootstrap -->
+    <a href="https://react-bootstrap.github.io"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactBootstrap.png"/></a>
+    <!-- Icon Bootstrap -->
+    <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap"/></a>
+    <!-- Icon MaterialUI -->
+    <a href="https://mui.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/></a>
+    <!-- Icon ChartJS -->
+    <a href="https://www.chartjs.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/></a>
+    <!-- Icon Axios -->
+    <a href="https://www.axios.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/></a>
     <br />
+    <!-- Icon SocketIO -->
+    <a href="https://socket.io"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/></a>
+    <!-- Icon SendGrid -->
+    <a href="https://sendgrid.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/></a>
+    <!-- Icon Twillio -->
+    <a href="https://www.twilio.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/></a>
+  </p>
+</h2>
+
+<!-- #2.3 Hosting & Deployment -->
+<h2 align="center">
+  <!-- Animated Icon Deploy -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif" width="32"/>
+  Hosting & Deployment
+  <!-- Animated Icon Deploy -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif" width="32"/>
+
+  <br />
+  <br />
+
+  <!-- Icons Hosting & Deployment -->
+  <p align="center">
+    <!-- Icon GoDaddy -->
+    <a href="https://www.godaddy.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/GoDaddy.png"/></a>
+    <!-- Icon CPanel -->
+    <a href="https://cpanel.net"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/CPanel.png"/></a>
+    <!-- Icon Netlify -->
+    <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify"/></a>
+    <!-- Icon Heroku -->
+    <a href="https://www.heroku.com"><img src="https://skillicons.dev/icons?i=heroku"/></a>
+    <!-- Icon Firebase -->
+    <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase"/></a>
+    <!-- Icon ElephantSQL -->
+    <a href="https://www.elephantsql.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ElephantSQL.png"/></a>
+  </p>
+</h2>
+
+<!-- #2.4 Tools -->
+<h2 align="center">
+  <!-- Animated Icon Git -->
+  <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/GIT.gif" width="24"/>
+  Tools
+  <!-- Animated Icon VScode -->
+  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp" width="24"/>
+
+  <br />
+  <br />
+
+  <!-- Icons Tools -->
+  <p align="center">
+    <!-- Icon Git -->
+    <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"/></a>
+    <!-- Icon GitHub -->
+    <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github"/></a>
+    <!-- Icon VSCode -->
+    <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode"/></a>
+    <!-- Icon Ubuntu -->
+    <a href="https://ubuntu.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/></a>
+    <!-- Icon Postman -->
+    <a href="https://www.postman.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/></a>
     <br />
-
-    <!-- Icons Frameworks & Libraries -->
-    <p align="center">
-      <!-- Icon Django -->
-      <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django"/></a>
-      <!-- Icon DRF -->
-      <a href="https://www.django-rest-framework.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/DRF.png"/></a>
-      <!-- Icon Flask -->
-      <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask"/></a>
-      <!-- Icon SQLAlchemy -->
-      <a href="https://www.sqlalchemy.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SQLAlchemy.png"/></a>
-      <!-- Icon PostgreSQL -->
-      <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres"/></a>
-      <br />
-      <!-- Icon MySQL -->
-      <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql"/></a>
-      <!-- Icon MongoDB -->
-      <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
-      <!-- Icon NodeJS -->
-      <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-      <!-- Icon ReactJS -->
-      <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react"/></a>
-      <!-- Icon React Hooks -->
-      <a href="https://reactjs.org/docs/hooks-intro.html"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactHooks.png"/></a>
-      <br />
-      <!-- Icon React Bootstrap -->
-      <a href="https://react-bootstrap.github.io"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ReactBootstrap.png"/></a>
-      <!-- Icon Bootstrap -->
-      <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap"/></a>
-      <!-- Icon MaterialUI -->
-      <a href="https://mui.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MaterialUI2.png"/></a>
-      <!-- Icon ChartJS -->
-      <a href="https://www.chartjs.org"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ChartJS.png"/></a>
-      <!-- Icon Axios -->
-      <a href="https://www.axios.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Axios2.png"/></a>
-      <br />
-      <!-- Icon SocketIO -->
-      <a href="https://socket.io"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SocketIO.png"/></a>
-      <!-- Icon SendGrid -->
-      <a href="https://sendgrid.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/SendGrid.png"/></a>
-      <!-- Icon Twillio -->
-      <a href="https://www.twilio.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Twillio2.png"/></a>
-    </p>
-  </h2>
-
-  <!-- #2.3 Hosting & Deployment -->
-  <h2 align="center">
-    <!-- Animated Icon Deploy -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif" width="32"/>
-    Hosting & Deployment
-    <!-- Animated Icon Deploy -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Deploy.gif" width="32"/>
-
+    <!-- Icon Photoshop -->
+    <a href="https://www.adobe.com/mena_en/products/photoshop/landpb.html"><img src="https://skillicons.dev/icons?i=ps"/></a>
+    <!-- Icon Figma -->
+    <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma"/></a>
+    <!-- Icon MockFlow -->
+    <a href="https://www.mockflow.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MockFlow.png"/></a>
+    <!-- Icon Trello -->
+    <a href="https://trello.com/en"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Trello.png"/></a>
+    <!-- Icon Asana -->
+    <a href="https://asana.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Asana.png"/></a>
     <br />
-    <br />
-
-    <!-- Icons Hosting & Deployment -->
-    <p align="center">
-      <!-- Icon GoDaddy -->
-      <a href="https://www.godaddy.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/GoDaddy.png"/></a>
-      <!-- Icon CPanel -->
-      <a href="https://cpanel.net"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/CPanel.png"/></a>
-      <!-- Icon Netlify -->
-      <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify"/></a>
-      <!-- Icon Heroku -->
-      <a href="https://www.heroku.com"><img src="https://skillicons.dev/icons?i=heroku"/></a>
-      <!-- Icon Firebase -->
-      <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase"/></a>
-      <!-- Icon ElephantSQL -->
-      <a href="https://www.elephantsql.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/ElephantSQL.png"/></a>
-    </p>
-  </h2>
-
-  <!-- #2.4 Tools -->
-  <h2 align="center">
-    <!-- Animated Icon Git -->
-    <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/GIT.gif" width="24"/>
-    Tools
-    <!-- Animated Icon VScode -->
-    <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp" width="24"/>
-
-    <br />
-    <br />
-
-    <!-- Icons Tools -->
-    <p align="center">
-      <!-- Icon Git -->
-      <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"/></a>
-      <!-- Icon GitHub -->
-      <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github"/></a>
-      <!-- Icon VSCode -->
-      <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode"/></a>
-      <!-- Icon Ubuntu -->
-      <a href="https://ubuntu.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Ubuntu.png"/></a>
-      <!-- Icon Postman -->
-      <a href="https://www.postman.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Postman.png"/></a>
-      <br />
-      <!-- Icon Photoshop -->
-      <a href="https://www.adobe.com/mena_en/products/photoshop/landpb.html"><img src="https://skillicons.dev/icons?i=ps"/></a>
-      <!-- Icon Figma -->
-      <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma"/></a>
-      <!-- Icon MockFlow -->
-      <a href="https://www.mockflow.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/MockFlow.png"/></a>
-      <!-- Icon Trello -->
-      <a href="https://trello.com/en"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Trello.png"/></a>
-      <!-- Icon Asana -->
-      <a href="https://asana.com"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Asana.png"/></a>
-      <br />
-      <!-- Icon Autocad -->
-      <a href="https://www.autodesk.com/products/autocad"><img src="https://skillicons.dev/icons?i=autocad"/></a>
-      <!-- Icon Revit -->
-      <a href="https://www.autodesk.com/products/revit"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/></a>
-    </p>
-  </h2>
+    <!-- Icon Autocad -->
+    <a href="https://www.autodesk.com/products/autocad"><img src="https://skillicons.dev/icons?i=autocad"/></a>
+    <!-- Icon Revit -->
+    <a href="https://www.autodesk.com/products/revit"><img height="48" src="https://github.com/yahiaqous/yahiaqous/blob/main/icons/Revit.png"/></a>
+  </p>
+</h2>
 </details>
   
 <br />
