@@ -86,7 +86,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
   </h1>
 </summary>
-<h6 align="center"></h6>
   
 <!-- #2.1 Languages -->
 <h2 align="center">
