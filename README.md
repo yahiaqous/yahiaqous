@@ -35,15 +35,15 @@
 <!-- Do you believe that I came from the future? -->
 <h3 align="center">Do you believe that I came from the future?</h3>
 <!-- NO? Neither am I, Scroll now -->
-<h3 align="center">NO? Neither am I, Scroll now</h3>
+<h3 align="center">NO! Neither am I, Scroll now</h3>
 
 <br />
 
 <div>
-  <!-- Do you believe that we wanna have two main worlds in the future? -->
-  <h3 align="center">Do you believe that we wanna have two main worlds in the future?</h3>
-  <!-- This one and a virtual one! I do -->
-  <h3 align="center">This one and a virtual one! I do</h3>
+  <!-- Well, do you think we'll have two main worlds in the future? -->
+  <h3 align="center">Well, do you think we'll have two main worlds in the future?</h3>
+  <!-- This world and another one virtual! I do -->
+  <h3 align="center">This world and another one virtual! I do</h3>
   
   <!-- GIF VR2 -->
   <div align="center">
