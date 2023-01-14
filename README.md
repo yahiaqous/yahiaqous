@@ -235,8 +235,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h2>
 </summary>
 </details>
-  
-<br />
+
 <br />
 <hr>
 
@@ -281,7 +280,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </p>
 </details>
 
-<br />
 <br />
 <hr>
 
@@ -331,7 +329,6 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
 </details>
 
 <br />
-<br />
 <hr>
 
 <!--
@@ -358,7 +355,6 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
 </p>
 </details>
 
-<br />
 <br />
 <hr>
 
