@@ -37,8 +37,6 @@
 <!-- NO? Neither am I, Scroll now -->
 <h3 align="center">NO! Neither am I, Scroll now</h3>
 
-<br />
-
 <div>
   <!-- Well, do you think we'll have two main worlds in the future? -->
   <h3 align="center">Well, do you think we'll have two main worlds in the future?</h3>
@@ -51,7 +49,6 @@
   </div>
 </div>
 
-<br />
 <br />
 
 <!-- #1.3 My Favorite Quote -->
@@ -236,7 +233,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </summary>
 </details>
 
-<br />
 <hr>
 
 <!-- 
