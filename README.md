@@ -1,14 +1,5 @@
 <!-- Tutorial Link => https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps -->
 
-
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
 <!-- To Change the Default Font -->
 <samp>
 
@@ -56,6 +47,14 @@
   <div align="center">
     <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/VR2.gif" align="center" style="width: 40%; height:40%"/>
   </div>
+    
+<style>
+.green {
+color: green;
+font-weight:700;
+font-size: 30px;
+}
+</style>
 </div>
 
 <br />
