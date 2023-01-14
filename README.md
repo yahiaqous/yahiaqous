@@ -90,7 +90,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   
 <!-- #2.1 Languages -->
   
-<div id="user-content-toc">
+<div align="center">
 <ul>
 <summary>
 <h2 style="display: inline-block;" align="center">
