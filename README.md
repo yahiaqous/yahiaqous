@@ -242,7 +242,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   Projects Section
  -->
 
-<details open>
+<details>
 <!-- Projects -->
 <summary align="center">
 <h1 align="center">
@@ -335,7 +335,7 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
  -->
 <!-- Tutorial Link => https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile -->
 
-<details open>
+<details>
 <!-- Daily Div Card -->
 <summary align="center">
 <h1 align="center">
