@@ -1,7 +1,13 @@
 <!-- Tutorial Link => https://naveenkumarj.hashnode.dev/tricks-and-hacks-how-to-make-your-github-profile-readmemd-looks-stunning-within-3-steps -->
 
 
-<style></style>
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
 
 <!-- To Change the Default Font -->
 <samp>
