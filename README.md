@@ -91,7 +91,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- #2.1 Languages -->
   
 <div align="center">
-<ul>
 <summary>
 <h2 style="display: inline-block;" align="center">
   <!-- Animated Icon JS -->
@@ -237,7 +236,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 </h2>
 </summary>
-</ul>
 </div>
 </details>
   
