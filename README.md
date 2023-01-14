@@ -12,7 +12,7 @@
 <h1 align="center">
   Welcome!
   <!-- Animated Icon Hi -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
+  <img style="border-radius: 25px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
   Have a seat, don't be shy
 </h1>
 
