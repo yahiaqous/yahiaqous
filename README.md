@@ -55,7 +55,7 @@
 <br />
 
 <!-- #1.3 My Favorite Quote -->
-<h2 align="center" width='50%'>
+<h2 align="center">
   <!-- Animated Icon Quote -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Quote.gif" width="64"/>
   My Favorite Quote
