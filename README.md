@@ -48,7 +48,7 @@
   
   <!-- GIF VR2 -->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/VR2.gif" align="center" style="width: 40%; height:40%"/>
+    <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/VR2Rounded.gif" align="center" style="width: 40%; height:40%"/>
   </div>
 </div>
 
