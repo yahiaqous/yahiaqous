@@ -254,19 +254,25 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <p align="center">
   <!-- #3.1 Project Entertainment Syndicate -->
-  <a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
-    <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react"/>
-  </a>
+  <p align="center">
+    <a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
+      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=Entertainment-Syndicate&repo=frontend-entertainment-syndicate&theme=react"/>
+    </a>
+  </p>
   
   <!-- #3.2 Project Real Time Translator -->
-  <a align="center" href="https://github.com/real-time-translator/real-time-translator">
-    <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=real-time-translator&repo=real-time-translator&theme=react"/>
-  </a>
-  
+  <p align="center">
+    <a align="center" href="https://github.com/real-time-translator/real-time-translator">
+      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=real-time-translator&repo=real-time-translator&theme=react"/>
+    </a>
+  </p>
+    
   <!-- #3.3 Project Partyistic -->
-  <a align="center" href="https://github.com/partyistic/partyistic">
-    <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react"/>
-  </a>
+  <p align="center">
+    <a align="center" href="https://github.com/partyistic/partyistic">
+      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=partyistic&repo=partyistic&theme=react"/>
+    </a>
+  </p>
 </p>
 
 <br />
