@@ -47,14 +47,6 @@
   <div align="center">
     <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/VR2.gif" align="center" style="width: 40%; height:40%"/>
   </div>
-    
-<style>
-.green {
-color: green;
-font-weight:700;
-font-size: 30px;
-}
-</style>
 </div>
 
 <br />
