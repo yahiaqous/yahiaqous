@@ -76,8 +76,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
  -->
 <!-- Skills Icons => https://github.com/tandpfun/skill-icons -->
 
-<!-- Technical Skills -->
 <details open>
+<!-- Technical Skills -->
 <summary align="center">
   <h1 align="center">
     <!-- Animated Icon Skills -->
@@ -88,7 +88,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </h1>
 </summary>
   
-<h2 align="center" style="display:block;">
+<h2 align="center">
   <!-- #2.1 Languages -->
   <!-- Animated Icon JS -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/animated_icons/JS.gif" width="24"/>
@@ -242,7 +242,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   Projects Section
  -->
 
+<details open>
 <!-- Projects -->
+<summary align="center">
 <h1 align="center">
   <!-- Animated Icon Projects -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Projects.gif" width="32"/>
@@ -250,7 +252,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Animated Icon Projects -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Projects.gif" width="32"/>
 </h1>
-
+</summary>
+  
 <p align="center">
   <!-- #3.1 Project Entertainment Syndicate -->
   <p align="center">
@@ -273,6 +276,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     </a>
   </p>
 </p>
+</details>
 
 <br />
 <br />
@@ -282,7 +286,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   GitHub Stats Section
  -->
 
+<details open>
 <!-- GitHub Stats -->
+<summary align="center">
 <h1 align="center">
   <!-- Animated Icon GitHub -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp" width="32"/>
@@ -290,6 +296,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- Animated Icon GitHub -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp" width="32"/>
 </h1>
+</summary>
 
 <!-- #4.1 GitHub Stats | My Profile Views -->
 <p align="center" width="100%">
@@ -317,6 +324,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- #4.5 Contribution Grid Snake -->
 ![snake
 gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid-snake.svg)
+</details>
 
 <br />
 <br />
@@ -327,7 +335,9 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
  -->
 <!-- Tutorial Link => https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile -->
 
+<details open>
 <!-- Daily Div Card -->
+<summary align="center">
 <h1 align="center">
   <!-- Animated Icon Handshake -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Reading.gif" width="36"/>
@@ -335,11 +345,14 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
   <!-- Animated Icon Handshake -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Reading.gif" width="36"/>
 </h1>
+</summary>
 
+<!-- Card -->
 <p align="center">
   <a align="center" href="https://app.daily.dev/Yahia"><img src="https://github.com/yahiaqous/yahiaqous/blob/main/devcard.svg" width="400" alt="Yahia Qous's Dev Card"/></a>
 </p>
-  
+</details>
+
 <br />
 <br />
 
@@ -348,7 +361,9 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
   Connect with me Section
  -->
 
+<details open>
 <!-- Connect with me -->
+<summary align="center">
 <h1 align="center">
   <!-- Animated Icon Handshake -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif" width="36"/>
@@ -356,6 +371,7 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
   <!-- Animated Icon Handshake -->
   <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Handshake.gif" width="36"/>
 </h1>
+</summary>
 
 <p align="center">
   <!-- #5.1 Animated Icon GitHub -->
@@ -390,4 +406,6 @@ gif](https://github.com/yahiaqous/yahiaqous/blob/output/github-contribution-grid
     <img height="75" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Facebook.webp"/>
   </a>
 </p>
+</details>
+
 </samp>
