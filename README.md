@@ -77,17 +77,15 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 <!-- Technical Skills -->
 <details open>
-
-<h1 align="center">
-  <summary>
+<summary align="center">
+  <h1 align="center">
     <!-- Animated Icon Skills -->
     <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
     Technical Skills
     <!-- Animated Icon Skills -->
     <img src="https://github.com/yahiaqous/yahiaqous/blob/main/gifs/Skills.gif" width="32"/>
-  </summary>
-</h1>
-
+  </h1>
+</summary>
 
 <!-- #2.1 Languages -->
 <h2 align="center">
