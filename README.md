@@ -108,6 +108,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
   </p>
 
+  <!-- Animated Icon React -->
+  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/ReactJS.gif" width="24"/>
   <!-- #2.2 Frameworks & Libraries -->
   Frameworks & Libraries
   <!-- Animated Icon React -->
