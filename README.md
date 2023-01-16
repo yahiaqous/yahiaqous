@@ -109,8 +109,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 
   <!-- #2.2 Frameworks & Libraries -->
-  Frameworks & Libraries
-
+  <!-- Animated Icon React -->
+  Frameworks & Libraries<img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/ReactJS.gif" width="24"/>
   <br />
   <br />
 
