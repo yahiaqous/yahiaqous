@@ -87,9 +87,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <summary align="center">
 <h2 align="center">
   <!-- #2.1 Languages -->
-  Languages
-  <!-- Animated Icon JS -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/JS.gif" width="24"/>
+  Languages <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/JS.gif" width="24"/> <!-- Animated Icon JS -->
 
   <br />
   <br />
@@ -110,6 +108,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
   <!-- #2.2 Frameworks & Libraries -->
   Frameworks & Libraries <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/ReactJS.gif" width="24"/> <!-- Animated Icon React -->
+  
   <br />
   <br />
 
@@ -157,9 +156,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 
   <!-- #2.3 Hosting & Deployment -->
-  Hosting & Deployment
-  <!-- Animated Icon Deploy -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Deploy.gif" width="32"/>
+  Hosting & Deployment <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Deploy.gif" width="32"/> <!-- Animated Icon Deploy -->
 
   <br />
   <br />
@@ -181,9 +178,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 
   <!-- #2.4 Tools -->
-  Tools
-  <!-- Animated Icon VScode -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp" width="24"/>
+  Tools <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp" width="24"/> <!-- Animated Icon VScode -->
 
   <br />
   <br />
