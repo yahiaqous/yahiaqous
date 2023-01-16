@@ -56,8 +56,6 @@
 
 <!-- #1.3 My Favorite Quote -->
 <h2 align="center">
-  <!-- Animated Icon Quote -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Quote.gif" width="64"/>
   My Favorite Quote
   <!-- Animated Icon Quote -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Quote.gif" width="64"/>
@@ -80,8 +78,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- Technical Skills -->
 <summary align="center">
   <h1 align="center">
-    <!-- Animated Icon Skills -->
-    <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Skills.gif" width="32"/>
     Technical Skills
     <!-- Animated Icon Skills -->
     <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Skills.gif" width="32"/>
@@ -91,11 +87,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <summary align="center">
 <h2 align="center">
   <!-- #2.1 Languages -->
+  Languages
   <!-- Animated Icon JS -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/JS.gif" width="24"/>
-  Languages
-  <!-- Animated Icon Python -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Python.gif" width="24"/>
 
   <br />
   <br />
@@ -115,11 +109,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 
   <!-- #2.2 Frameworks & Libraries -->
+  Frameworks & Libraries
   <!-- Animated Icon React -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/ReactJS.gif" width="24"/>
-  Frameworks & Libraries
-  <!-- Animated Icon NodeJS -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/NodeJS.gif" width="24"/>
 
   <br />
   <br />
@@ -168,8 +160,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 
   <!-- #2.3 Hosting & Deployment -->
-  <!-- Animated Icon Deploy -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Deploy.gif" width="32"/>
   Hosting & Deployment
   <!-- Animated Icon Deploy -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Deploy.gif" width="32"/>
@@ -194,8 +184,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   </p>
 
   <!-- #2.4 Tools -->
-  <!-- Animated Icon Git -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GIT.gif" width="24"/>
   Tools
   <!-- Animated Icon VScode -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp" width="24"/>
@@ -247,8 +235,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- Projects -->
 <summary align="center">
 <h1 align="center">
-  <!-- Animated Icon Projects -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Projects.gif" width="32"/>
   Projects
   <!-- Animated Icon Projects -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Projects.gif" width="32"/>
@@ -291,8 +277,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- GitHub Stats -->
 <summary align="center">
 <h1 align="center">
-  <!-- Animated Icon GitHub -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp" width="32"/>
   GitHub Stats
   <!-- Animated Icon GitHub -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp" width="32"/>
@@ -340,8 +324,6 @@ gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contrib
 <!-- Daily Div Stats -->
 <summary align="center">
 <h1 align="center">
-  <!-- Animated Icon Handshake -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Reading.gif" width="36"/>
   Daily Div Stats
   <!-- Animated Icon Handshake -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Reading.gif" width="36"/>
@@ -366,8 +348,6 @@ gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contrib
 <!-- Connect with me -->
 <summary align="center">
 <h1 align="center">
-  <!-- Animated Icon Handshake -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Handshake.gif" width="36"/>
   Connect with me
   <!-- Animated Icon Handshake -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Handshake.gif" width="36"/>
