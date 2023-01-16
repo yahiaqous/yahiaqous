@@ -156,7 +156,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- #2.3 Hosting & Deployment -->
   Hosting & Deployment <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Deploy.gif" width="32"/> <!-- Animated Icon Deploy -->
   <br />
-  <br />
   <!-- Icons Hosting & Deployment -->
   <p align="center">
     <!-- Icon GoDaddy -->
