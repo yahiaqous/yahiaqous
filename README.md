@@ -88,7 +88,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h2 align="center">
   <!-- #2.1 Languages -->
   Languages <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/JS.gif" width="24"/> <!-- Animated Icon JS -->
-  <br />
+  <br /><br />
 
   <!-- Icons Languages -->
   <p align="center">
