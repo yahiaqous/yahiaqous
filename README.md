@@ -89,7 +89,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- #2.1 Languages -->
   Languages <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/JS.gif" width="24"/> <!-- Animated Icon JS -->
   <br />
-  <br />
 
   <!-- Icons Languages -->
   <p align="center">
@@ -107,7 +106,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
   <!-- #2.2 Frameworks & Libraries -->
   Frameworks & Libraries <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/ReactJS.gif" width="24"/> <!-- Animated Icon React -->
-  <br />
   <br />
 
   <!-- Icons Frameworks & Libraries -->
@@ -175,7 +173,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
   <!-- #2.4 Tools -->
   Tools <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/VScode.webp" width="24"/> <!-- Animated Icon VScode -->
-  <br />
   <br />
 
   <!-- Icons Tools -->
