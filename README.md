@@ -236,7 +236,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
   <!-- #3.2 Project Real Time Translator -->
   <p align="center">
     <a align="center" href="https://github.com/real-time-translator/real-time-translator">
-      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=yahiaous&repo=Real-Time-Translator&theme=react"/>
+      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=yahiaqous&repo=Real-Time-Translator&theme=react"/>
     </a>
   </p>
     
