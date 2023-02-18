@@ -225,7 +225,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h1>
 </summary>
   
-<p align="center">
+<p align="center">  
   <!-- #3.1 Project Entertainment Syndicate -->
   <p align="center">
     <a align="center" href="https://github.com/Entertainment-Syndicate/frontend-entertainment-syndicate">
@@ -246,7 +246,14 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
       <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=yahiaqous&repo=Partyistic&theme=react"/>
     </a>
   </p>
-</p>
+  
+  <!-- #3.4 Project Covid19 -->
+  <p align="center">
+    <a align="center" href="https://github.com/yahiaqous/Covid19">
+      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=yahiaqous&repo=Covid19&theme=react"/>
+    </a>
+  </p>
+</p>  
 </details>
 
 <br />
