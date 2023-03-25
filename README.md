@@ -269,7 +269,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 
 
 <!-- 
-  #3
+  #4
   Blogs Section
  -->
 <!-- https://github.com/Souravdey777/HashnodeBlogCards -->
@@ -280,7 +280,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <h1 align="center">
   My Blogs
   <!-- Animated Icon Projects -->
-  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Projects.gif" width="32"/>
+  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/WritingBlogs.gif" width="32"/>
 </h1>
 </summary>
   
