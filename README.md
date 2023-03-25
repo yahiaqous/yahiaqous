@@ -254,6 +254,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
       <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=yahiaqous&repo=Covid19&theme=react"/>
     </a>
   </p>
+  
+  <!-- #3.5 Project Simple Social Media -->
+  <p align="center">
+    <a align="center" href="https://github.com/yahiaqous/Simple-Social-Media">
+      <img align="center" src="https://yahiaqous-github-readme-stats.vercel.app/api/pin/?username=yahiaqous&repo=Simple-Social-Media&theme=react"/>
+    </a>
+  </p>
 </p>  
 </details>
 
