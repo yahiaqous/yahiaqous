@@ -267,8 +267,38 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <br />
 <hr>
 
+
 <!-- 
-  #4
+  #3
+  Blogs Section
+ -->
+<!-- https://github.com/Souravdey777/HashnodeBlogCards -->
+
+<details>
+<!-- My Blogs -->
+<summary align="center">
+<h1 align="center">
+  My Blogs
+  <!-- Animated Icon Projects -->
+  <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Projects.gif" width="32"/>
+</h1>
+</summary>
+  
+<p align="center">  
+  <!-- #4.1 Blog How to build a CRUD API using Python Flask and SQLAlchemy ORM with PostgreSQL -->
+  <p align="center">
+    <a align="center" href="https://yahiaqous.hashnode.dev/crud-api-python-flask-sqlalchemy-postgresql">
+      <img align="center" src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://yahiaqous.hashnode.dev/crud-api-python-flask-sqlalchemy-postgresql&large=true&theme=dark"/>
+    </a>
+  </p>
+</p>  
+</details>
+
+<br />
+<hr>
+
+<!-- 
+  #5
   GitHub Stats Section
  -->
 
@@ -282,30 +312,30 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 </h1>
 </summary>
 
-<!-- #4.1 GitHub Stats | My Profile Views -->
+<!-- #5.1 GitHub Stats | My Profile Views -->
 <p align="center" width="100%">
   <img align="center" width="250" src="https://komarev.com/ghpvc/?username=yahiaqous&color=5ebbe4&style=for-the-badge&label=My%20Profile%20Views%20|%20Not%20Real"/> 
 </p>
 
-<!-- #4.2 GitHub Stats | Yahia Qous' GitHub Stats -->
+<!-- #5.2 GitHub Stats | Yahia Qous' GitHub Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <img align="center" width="500" src="https://yahiaqous-github-readme-stats.vercel.app/api?username=yahiaqous&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
 </p>
 
-<!-- #4.3 GitHub Stats | Total Contributions -->
+<!-- #5.3 GitHub Stats | Total Contributions -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
   <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiaqous&theme=react"/>
 </p>
 
-<!-- #4.4 GitHub Stats | Most Used Languages -->
+<!-- #5.4 GitHub Stats | Most Used Languages -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <img align="center" width="500" src="https://yahiaqous-github-readme-stats.vercel.app/api/top-langs/?username=yahiaqous&layout=compact&theme=react&langs_count=6"/>
 </p>
 
-<!-- #4.5 Contribution Grid Snake -->
+<!-- #5.5 Contribution Grid Snake -->
 ![snake
 gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contribution-grid-snake.svg)
 </details>
@@ -314,7 +344,7 @@ gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contrib
 <hr>
 
 <!--
-  #5 
+  #6 
   Daily Div Card Section
  -->
 <!-- Tutorial Link => https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile -->
@@ -339,7 +369,7 @@ gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contrib
 <hr>
 
 <!--
-  #6 
+  #7 
   Connect with me Section
  -->
 
@@ -354,34 +384,34 @@ gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contrib
 </summary>
 
 <p align="center">
-  <!-- #5.1 Animated Icon GitHub -->
+  <!-- #7.1 Animated Icon GitHub -->
   <a align="center" href="https://github.com/yahiaqous">
     <img height="60" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/GitHub.webp"/>
   </a>
 
-  <!-- #5.2 Animated Icon LinkedIn -->
+  <!-- #7.2 Animated Icon LinkedIn -->
   <a align="center" href="https://www.linkedin.com/in/yahiaqous/">
     <img height="60" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Linkedin.gif"/>
   </a>
 
-  <!-- #5.3 Animated Icon Gmail -->
+  <!-- #7.3 Animated Icon Gmail -->
   <a align="center" align="center" href="mailto:yahiaqous@gmail.com">
     <img height="75" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Gmail.webp"/>
   </a>
 
-  <!-- #5.4 Animated Icon Slack -->
+  <!-- #7.4 Animated Icon Slack -->
 <!-- 
   <a align="center" href="https://ltuc-asac.slack.com/team/U01QYMCQ11C">
     <img height="48" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Slack.gif"/>
   </a> 
 -->
 
-  <!-- #5.5 Animated Icon Discord -->
+  <!-- #7.5 Animated Icon Discord -->
   <a align="center" href="https://discordapp.com/users/689913400167628826">
     <img height="75" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Discord.gif"/>
   </a>
 
-  <!-- #5.6 Animated Icon Facebook -->
+  <!-- #7.6 Animated Icon Facebook -->
   <a align="center" href="https://www.facebook.com/yahiaqous">
     <img height="75" src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/animated_icons/Facebook.webp"/>
   </a>
