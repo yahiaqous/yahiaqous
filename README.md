@@ -275,10 +275,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true
 <!-- https://github.com/Souravdey777/HashnodeBlogCards -->
 
 <details>
-<!-- My Blogs -->
+<!-- Blogs -->
 <summary align="center">
 <h1 align="center">
-  My Blogs
+  Blogs
   <!-- Animated Icon Projects -->
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/WritingBlogs.gif" width="32"/>
 </h1>
