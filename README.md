@@ -61,9 +61,9 @@
   <img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/gifs/Quote.gif" width="64"/>
 </h2>
 
-<!-- A jack of all trades is a master of none; but oftentimes better than a master of one -->
+<!-- Learn something about everything and everything about something -->
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%22A+jack+of+all+trades+is+a+master+of+none+;but+oftentimes+better+than+a+master+of+one%22)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%22Learn+something+about+everything+and+everything+about+something%22)](https://git.io/typing-svg)
 
 <br />
 <hr>
