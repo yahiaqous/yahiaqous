@@ -361,7 +361,7 @@ gif](https://raw.githubusercontent.com/yahiaqous/yahiaqous/output/github-contrib
 
 <!-- Card Image -->
 <p align="center">
-  <a align="center" href="https://app.daily.dev/Yahia"><img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/devcard.svg" width="400" alt="Yahia Qous's Dev Card"/></a>
+  <a align="center" href="https://app.daily.dev/yahiaqous"><img src="https://raw.githubusercontent.com/yahiaqous/yahiaqous/main/devcard.svg" width="400" alt="Yahia Qous's Dev Card"/></a>
 </p>
 </details>
 
